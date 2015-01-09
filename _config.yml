@@ -9,6 +9,7 @@ permalink:        pretty
 title:            This Little World
 tagline:          "Inside Shakespeare's world"
 description:      ''
+purpose:          "blah"
 url:              http://thislittleworld.github.io
 
 author:
@@ -16,6 +17,7 @@ author:
   url:            http://thislittleworld.github.io
 
 paginate:         5
+paginate_path:    "blog/page:num"
 
 # Custom vars
 github:
