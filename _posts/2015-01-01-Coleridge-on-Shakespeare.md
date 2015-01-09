@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coleridge on Shakespeare
+permalink: Coleridge-on-Shakespeare
 ---
 
 ![](http://pastnow.files.wordpress.com/2014/03/shakespeare.png "The one on the right is Coleridge")
