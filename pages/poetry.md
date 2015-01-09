@@ -6,7 +6,8 @@ permalink: "/poetry/"
 
 In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler.
 
->FROM the besieged Ardea all in post,
+```
+FROM the besieged Ardea all in post,
 Borne by the trustless wings of false desire,
 Lust-breathed Tarquin leaves the Roman host,
 And to Collatium bears the lightless fire
@@ -76,3 +77,4 @@ Proving from world's minority their right:
 Yet their ambition makes them still to fight;
 The sovereignty of either being so great,
 That oft they interchange each other's seat.
+```
