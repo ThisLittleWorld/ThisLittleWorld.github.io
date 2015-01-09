@@ -14,7 +14,7 @@ In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Je
 	Which, in pale embers hid, lurks to aspire<BR>
 	And girdle with embracing flames the waist<BR>
 	Of Collatine's fair love, Lucrece the chaste.<BR>
-
+	<br>
 	Haply that name of 'chaste' unhappily set<BR>
 	This bateless edge on his keen appetite;<BR>
 	When Collatine unwisely did not let<BR>
