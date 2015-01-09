@@ -19,7 +19,7 @@ In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Je
 	This bateless edge on his keen appetite;<BR>
 	When Collatine unwisely did not let<BR>
 	To praise the clear unmatched red and white<BR>
-	Which triumph'd in that sky of his delight,
-	Where mortal stars, as bright as heaven's beauties,
+	Which triumph'd in that sky of his delight,<br>
+	Where mortal stars, as bright as heaven's beauties,<br>
 	With pure aspects did him peculiar duties.
 </div>
