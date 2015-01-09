@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler.'
-description:      'A diligent and noble steward for building Jekyll sites.'
-url:              http://getpoole.com
+title:            This Little World
+tagline:          "Inside Shakespeare's world"
+description:      ''
+url:              http://thislittleworld.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Aviva Flyax'
+  url:            http://thislittleworld.github.io
 
 paginate:         5
 
 # Custom vars
 github:
-  repo:           https://github.com/poole/www
+  repo:           https://github.com/avivatf
