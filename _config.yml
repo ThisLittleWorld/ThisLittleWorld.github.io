@@ -27,10 +27,10 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  About: '/about/'
-  Archive: '/archive/'
-  Feed: '/atom.xml'
-  Poetry: '/poetry/'
+  poetry: '/poetry/'
+  about: '/about/'
+  archive: '/archive/'
+  feed: '/atom.xml'
 
 # # Allow URL Redirects: 
 # #  * https://help.github.com/articles/redirects-on-github-pages
