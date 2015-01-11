@@ -4,10 +4,9 @@ title: Critics
 permalink: "/critics/"
 ---
 
-# General:
+## General:
 
-## On Stage Representation:
+### On Stage Representation:
 
-[Charles Lamb](/lamb.stage/)
-
-Virginia Woolf
+* [Charles Lamb](/lamb.stage/)
+* Virginia Woolf
