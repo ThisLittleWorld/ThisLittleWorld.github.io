@@ -15,7 +15,7 @@ permalink: "/lamb.stage/"
   realities. Going nearer, I found inscribed under this harlequin
   figure the following lines:&mdash;
 </p>
-<div class="poem">
+<div class="message">
   "To paint fair Nature, by divine command
   Her magic pencil in his glowing hand,
   A Shakspeare rose; then, to expand his fame
