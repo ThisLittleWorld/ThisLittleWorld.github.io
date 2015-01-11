@@ -6,7 +6,12 @@ permalink: "/critics/"
 
 ## General:
 
-### On Stage Representation:
+#### On Stage Representation:
 
-* [Charles Lamb](/lamb.stage/)
+* [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
 * Virginia Woolf
+
+
+##Hamlet:
+
+* [Hamlet and His Problems](/eliot.hamlet/) — T.S. Eliot
