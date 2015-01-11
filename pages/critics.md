@@ -9,4 +9,5 @@ permalink: "/critics/"
 ## On Stage Representation:
 
 [Charles Lamb](/lamb.stage/)
-Virginal Woolf
+
+Virginia Woolf
