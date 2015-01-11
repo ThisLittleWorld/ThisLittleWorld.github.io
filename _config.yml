@@ -27,14 +27,14 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  Plays: '/plays/'
-  Biography: '/biography/'
-  Critics: '/critics/'
-  World: '/world/'
-  Blog: '/blog'/
+  Plays:  '/plays/'
+  Biography:  '/biography/'
+  Critics:  '/critics/'
+  World:  '/world/'
+  Blog: '/blog/'
   About: '/about/'
   Archive: '/archive/'
-  feed: '/atom.xml'
+  # Feed: '/atom.xml'
 
 # # Allow URL Redirects: 
 # #  * https://help.github.com/articles/redirects-on-github-pages
