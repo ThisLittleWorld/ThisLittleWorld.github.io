@@ -15,7 +15,7 @@ permalink: "/lamb.stage/"
   realities. Going nearer, I found inscribed under this harlequin
   figure the following lines:&mdash;
 </p>
-<div class="message">
+<blockquote>
   "To paint fair Nature, by divine command
   Her magic pencil in his glowing hand,
   A Shakspeare rose; then, to expand his fame
@@ -28,7 +28,7 @@ permalink: "/lamb.stage/"
   Shall mark the mortal hour of hoary Time,
   Shakspeare and Garrick like twin-stars shall shine,
   And earth irradiate with a beam divine."
-</div>
+</blockquote>
 <p>
   It would be an insult to my readers' understandings to attempt
   anything like a criticism on this farrago of false thoughts and
