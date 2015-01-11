@@ -8,7 +8,7 @@ permalink: "/critics/"
 #### On Stage Representation:
 
 * [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
-* Virginia Woolf
+* [Twelfth Night at The Old Vic](/woolf.stage/) — Virginia Woolf
 * [On Laurence Olivier's Hamlet](/stage.salinger/) — J.D. Salinger
 
 
@@ -17,4 +17,5 @@ permalink: "/critics/"
 
 * [Hamlet (essay)](/coleridge.hamlet.essay/) — S.T. Coleridge
 * [Hamlet and His Problems](/eliot.hamlet/) — T.S. Eliot
+
 
