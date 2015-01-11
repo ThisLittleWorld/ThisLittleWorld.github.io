@@ -3,7 +3,7 @@ layout: page
 title: On Laurence Olivier's Hamlet  
 permalink: "/stage.salinger/"
 ---
-I don't like any shows very much, if you want to know the truth. They're not as bad as
+  I don't like any shows very much, if you want to know the truth. They're not as bad as
 movies, but they're certainly nothing to rave about. In the first place, I hate actors. They
 never act like people. They just think they do. Some of the good ones do, in a very slight
 way, but not in a way that's fun to watch. And if any actor's really good, you can always
