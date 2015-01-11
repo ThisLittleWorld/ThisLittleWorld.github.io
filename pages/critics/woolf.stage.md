@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-quote_title
 title: Twelfth Night at the Old Vic
 permalink: "/woolf.stage/"
 ---
