@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Twelfth Night" at the Old Vic
+title: \"Twelfth Night\" at the Old Vic
 permalink: "/woolf.stage/"
 ---
 ### By Virginia Woolf
