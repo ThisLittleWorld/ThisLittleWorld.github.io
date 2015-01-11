@@ -16,18 +16,42 @@ permalink: "/lamb.stage/"
   figure the following lines:&mdash;
 </p>
 <div class="poem">
-  "To paint fair Nature, by divine command
-  Her magic pencil in his glowing hand,
-  A Shakspeare rose; then, to expand his fame
-  Wide o'er this breathing world, a Garrick came.
-  Though sunk in death the forms the Poet drew,
-  The Actor's genius bade them breathe anew;
-  Though, like the bard himself, in night they lay,
-  Immortal Garrick called them back to day:
-  And till Eternity with power sublime
-  Shall mark the mortal hour of hoary Time,
-  Shakspeare and Garrick like twin-stars shall shine,
-  And earth irradiate with a beam divine."
+  <p>
+    "To paint fair Nature, by divine command
+  </p>
+  <p>
+    Her magic pencil in his glowing hand,
+  </p>
+  <p>
+    A Shakspeare rose; then, to expand his fame
+  </p>
+  <p>
+    Wide o'er this breathing world, a Garrick came.
+  </p>
+  <p>
+    Though sunk in death the forms the Poet drew,
+  </p>
+  <p>
+    The Actor's genius bade them breathe anew;
+  </p>
+  <p>
+    Though, like the bard himself, in night they lay,
+  </p>
+  <p>
+    Immortal Garrick called them back to day:
+  </p>
+  <p>
+    And till Eternity with power sublime
+  </p>
+  <p>
+    Shall mark the mortal hour of hoary Time,
+  </p>
+  <p>
+    Shakspeare and Garrick like twin-stars shall shine,
+  </p>
+  <p>
+    And earth irradiate with a beam divine."
+  </p>
 </div>
 <p>
   It would be an insult to my readers' understandings to attempt
