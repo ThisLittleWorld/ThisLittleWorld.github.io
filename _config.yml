@@ -27,9 +27,13 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  poetry: '/poetry/'
-  about: '/about/'
-  archive: '/archive/'
+  Biography: '/biography/'
+  Critics: '/critics/'
+  World: '/world/'
+  Blog: '/blog'/
+  About: '/about/'
+  Plays: '/plays/'
+  Archive: '/archive/'
   feed: '/atom.xml'
 
 # # Allow URL Redirects: 
