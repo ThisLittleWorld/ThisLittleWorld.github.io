@@ -3,8 +3,8 @@ layout: page
 title: On Laurence Olivier's Hamlet  
 permalink: "/stage.salinger/"
 ---
- ## From *The Catcher in the Rye*
- ### by J.D. Salinger
+## From *The Catcher in the Rye*
+### by J.D. Salinger
  
  I don't like any shows very much, if you want to know the truth. They're not as bad as
 movies, but they're certainly nothing to rave about. In the first place, I hate actors. They
