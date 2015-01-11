@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-guttenberg
 title: Critics
 permalink: "/critics/"
 ---

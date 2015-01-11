@@ -1,9 +1,10 @@
 ---
 layout: page
-title: On the Tragedies of Shakespeare Considered with Reference to their Fitness for Stage Representation by Charles Lamb
+title: On the Tragedies of Shakespeare
 permalink: "/lamb.stage/"
 ---
-<p>
+##Considered with Reference to their Fitness for Stage Representation
+###by Charles Lamb
   Taking a turn the other day in the Abbey, I was struck with the
   affected attitude of a figure, which I do not remember to have
   seen before, and which upon examination proved to be a
@@ -14,7 +15,7 @@ permalink: "/lamb.stage/"
   gestures into a place set apart to remind us of the saddest
   realities. Going nearer, I found inscribed under this harlequin
   figure the following lines:&mdash;
-</p>
+
 <div class="poem">
   <p>
     "To paint fair Nature, by divine command
