@@ -79,7 +79,7 @@ permalink: "/lamb.stage/"
   error is one from which persons otherwise not meanly lettered,
   find it almost impossible to extricate themselves.
 </p>
-<div class="footnote">
+<blockquote>
   1: It is observable that we fall into this confusion only in
   dramatic recitations. We never dream that the gentleman who reads
   Lucretius in public with great applause, is therefore a great
@@ -88,7 +88,7 @@ permalink: "/lamb.stage/"
   better than any man in England in his day (though I cannot help
   thinking there must be some mistake in this tradition), was
   therefore, by his intimate friends, set upon a level with Milton.
-</div>
+</blockquote>
 <p>
   Never let me be so ungrateful as to forget the very high degree
   of satisfaction which I received some years back from seeing for
