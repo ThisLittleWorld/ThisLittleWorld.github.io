@@ -10,6 +10,8 @@ permalink: "/critics/"
 
 * [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
 * Virginia Woolf
+* [On Laurence Olivier's Hamlet](/stage.salinger/) — J.D. Salinger
+
 
 
 ##Hamlet:
