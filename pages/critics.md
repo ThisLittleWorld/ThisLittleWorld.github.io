@@ -19,3 +19,6 @@ permalink: "/critics/"
 * [Hamlet and His Problems](/eliot.hamlet/) — T.S. Eliot
 
 
+
+####The Merchant of Venice:
+* [On The Merchant of Venice](/chesterton.themerchantofvenice/) --- G.K. Chesterton
