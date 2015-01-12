@@ -4,7 +4,7 @@ title: Critics
 permalink: "/critics/"
 ---
 
-## General:
+#### General:
 #### On Stage Representation:
 
 * [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
@@ -13,7 +13,7 @@ permalink: "/critics/"
 
 
 
-##Hamlet:
+####Hamlet:
 
 * [Hamlet (essay)](/coleridge.hamlet.essay/) — S.T. Coleridge
 * [Hamlet and His Problems](/eliot.hamlet/) — T.S. Eliot
