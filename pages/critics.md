@@ -4,8 +4,8 @@ title: Critics
 permalink: "/critics/"
 ---
 
-#### General:
-#### On Stage Representation:
+####General:
+####Stage Representation:
 
 * [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
 * [Twelfth Night at The Old Vic](/woolf.stage/) — Virginia Woolf
