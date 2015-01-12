@@ -12,7 +12,7 @@ permalink:        pretty
 title:            This Little World
 tagline:          ~ a Shakesperean page
 url:              http://thislittleworld.github.io
-# CNAME:            http://thislittleworld.org
+# CNAME:            http://thislittleworld.github.io
 paginate:         3
 paginate_path:    "/blog/page:num/"
 baseurl:          /
