@@ -21,4 +21,4 @@ permalink: "/critics/"
 
 
 ####The Merchant of Venice:
-* [On The Merchant of Venice](/chesterton.themerchantofvenice/) --- G.K. Chesterton
+* [On The Merchant of Venice](/chesterton.themerchantofvenice/) — G.K. Chesterton
