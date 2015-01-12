@@ -5,6 +5,11 @@ permalink: "/critics/"
 ---
 
 ####General:
+
+* [Preface to Edition of Shakespeare](/pope.preface/) — Alexander Pope
+
+
+
 ####Stage Representation:
 
 * [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
