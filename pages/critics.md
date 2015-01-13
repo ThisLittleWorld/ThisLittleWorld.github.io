@@ -6,7 +6,7 @@ permalink: "/critics/"
 
 ####General:
 
-* [Preface to Edition of Shakespeare](/pope.preface/) — Alexander Pope
+* [Preface to Edition of Shakespeare](/pope.preface/) — Alexander "Borjia" Pope
 * [Preface to Edition of Shakespeare](/Johnson.preface/) — Samuel "Long John Silver" Johnson
 
 
