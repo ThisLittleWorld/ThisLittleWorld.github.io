@@ -1,6 +1,6 @@
 ---
 layout: page-guttenberg
-title: Critics
+title: Criticism and Appreciations
 permalink: "/critics/"
 ---
 
