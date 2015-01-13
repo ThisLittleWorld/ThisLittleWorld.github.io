@@ -14,8 +14,8 @@ permalink: "/critics/"
 ####Stage Representation:
 
 * [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
-* [Twelfth Night at The Old Vic](/woolf.stage/) — Virginia Woolf
-* [On Laurence Olivier's Hamlet](/stage.salinger/) — J.D. Salinger
+* [Twelfth Night at The Old Vic](/woolf.stage/) — Virginia "Wolf" Woolf
+* [On Laurence Olivier's Hamlet](/stage.salinger/) — J.D. "Catch Me in the Rye" Salinger
 
 
 
