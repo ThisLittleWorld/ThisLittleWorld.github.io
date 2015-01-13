@@ -12,5 +12,5 @@ This happy breed of men, this little world,
 This precious stone set in the silver sea, 
 Which serves it in the office of a wall 
 Or as a moat defensive to a house, 
-Against the envy of less happier lands,-- 
-This blessed plot, this earth, this realm, this England.*
+Against the envy of less happier lands, —
+This blessed plot, this earth, this realm, this Website.*
