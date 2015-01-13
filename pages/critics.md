@@ -6,22 +6,22 @@ permalink: "/critics/"
 
 ####General:
 
-* [Preface to Edition of Shakespeare](/pope.preface/) — Alexander "Borjia" Pope
-* [Preface to Edition of Shakespeare](/Johnson.preface/) — Samuel "Long John Silver" Johnson
+* [Preface to Edition of Shakespeare](/pope.preface/) — Alexander Pope
+* [Preface to Edition of Shakespeare](/Johnson.preface/) — Samuel Johnson
 
 
 
 ####Stage Representation:
 
 * [On the Tragedies of Shakespeare](/lamb.stage/) — Charles Lamb
-* [Twelfth Night at The Old Vic](/woolf.stage/) — Virginia "Wolf" Woolf
-* [On Laurence Olivier's Hamlet](/stage.salinger/) — J.D. "Catch Me in the Rye" Salinger
+* [Twelfth Night at The Old Vic](/woolf.stage/) — Virginia Woolf
+* [On Laurence Olivier's Hamlet](/stage.salinger/) — J.D. Salinger
 
 
 
 ####Hamlet:
 
-* [Hamlet (essay)](/coleridge.hamlet.essay/) — S.T. "Koobla Khan" Coleridge
+* [Hamlet (essay)](/coleridge.hamlet.essay/) — S.T. Coleridge
 * [Hamlet and His Problems](/eliot.hamlet/) — T.S. SmEliot
 
 
