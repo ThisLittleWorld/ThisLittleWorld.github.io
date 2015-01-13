@@ -6,12 +6,12 @@ permalink: "/critics/"
 
 ####General:
 
-#####Poetry:
+########Poetry:
 
 * [To the Memory of My Beloved the Author, Mr. William Shakespeare](/jonson.elegy/) — Ben Jonson
 
 
-#####Prose:
+########Prose:
 
 * [Preface to Edition of Shakespeare](/pope.preface/) — Alexander Pope
 * [Preface to Edition of Shakespeare](/johnson.preface/) — Samuel Johnson
