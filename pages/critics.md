@@ -9,6 +9,7 @@ permalink: "/critics/"
 ######Poetry:
 
 * [To the Memory of My Beloved the Author, Mr. William Shakespeare](/jonson.elegy/) — Ben Jonson
+* [On Shakespeare](/milton.poem/) — John Milton
 
 
 ######Prose:
