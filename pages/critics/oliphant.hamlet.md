@@ -5,268 +5,265 @@ permalink: "/oliphant.hamlet/"
 ---
 
 IT is common to say that no actor
-upon the English stage,who has
+upon the English stage, who has
 any ambition or love for his profession,
 can die happy without having
-once at least attempted to re- present
+once at least attempted to represent
 Hamlet. It is the part
-which inspiresthe most imperfect,
+which inspires the most imperfect,
 and leads on the most experienced
-in never-failing pursuitof an excel- lence
-to come " a laurel alwaysthere
-for the winning. It is,we are also
+in never-failing pursuitof an excellence
+to come — a laurel always there
+for the winning. It is, we are also
 told by those who know the stage
 well, although one of the most
 difficult of all the creations of
-poetry,the one also in which abso- lute
+poetry, the one also in which absolute
 failure is less common than in
-any other. No one, perhaps,of al
+any other. No one, perhaps, of all
 its many representativeshas given
-us a completeimpersonationof the
-strangeand wonderful being whom
+us a complete impersonation of the
+strange and wonderful being whom
 we never completely understand,
-whom we discuss and quarrelover
-all our lives,but whom, at least,we
+whom we discuss and quarrel over
+all our lives, but whom, at least, we
 know, as we know few other of our
-lifelongfriends ;
+lifelong friends;
 while at the same
 time, every one who has attempted
-the parthas gotsome hold on human- ity
+the part has gotsome hold on humanity
 through those words, which the
-merest mouther of phrasescannot
-spoil,and that most touching and
-terrible positionwhich, even when
-we do not understand it,we feel,
+merest mouther of phrases cannot
+spoil, and that most touching and
+terrible position which, even when
+we do not understand it, we feel,
 moving us to the bottom of our
 hearts. Whether it is a doctrinaire
-who is upon the stage,graftinghis
-own philosophiesupon the poet's
-creation,or an ambitious mime who
+who is upon the stage, grafting his
+own philosophies upon the poet's
+creation, or an ambitious mime who
 attempts it only as the part which
-pays best when successful,our own
-ideal of the noble Dane, and inti- mae
-acquaintancewith his real
-being,save his representativefrom
+pays best when successful, our own
+ideal of the noble Dane, and intimate
+acquaintance with his real
+being, save his representative from
 entire failure. He is more to us
-than any actor; and it is scarcel
+than any actor; and it is scarcely
 going too far to say that,as each
 new attempt is made, the universal
-curiosityand interest it excites are
-drawn forth at least quiteas much
+curiosity and interest it excites are
+drawn forth at least quite as much
 by the hope that now at last we
-may know our Hamlet better,as by
-the lighterand more superficial
-eagerness to see how the actor ac- quits
+may know our Hamlet better, as by
+the lighter and more superficial
+eagerness to see how the actor acquits
 himself in a great part. No
-other tragiccreation,however great,
+other tragic creation, however great,
 has the same hold upon us. Othello
 is noble and terrible in his mingled
-strengthand weakness, and Lear
+strength and weakness, and Lear
 tears our hearts asunder with a
-passion of painfuland tragicde- light
-;
+passion of painful and tragic delight;
 but Hamlet stands to us in
-a far closer relation" he is a part
-of our intellectual training,of our
-higherbeing,of all the mysteries
+a far closer relation — 
+he is a part
+of our intellectual training ,of our
+higher being, of all the mysteries
 that move within us, and so often
 burst into unconscious expression
 in his very words. How it should
-be so we cannot tell" for it is im- possible
+be so we cannot tell — for it is impossible
 to conceive a type less like
-the ordinaryestimate of English
-character ; yet we feel assured the
+the ordinary estimate of English
+character; yet we feel assured the
 reader will agree with us when we
 say, that no other creation of poetry
 has ever seized hold upon and
 entered into the soul of the nation
 with such complete and perfect
-sovereignty.No hero of historyno
-brave and resolute Englishman
-" no King Hal,gay in his excesses,
-noble in his transformation,the very
-type of Anglo - Saxon manliness
-" comes within a thousand miles
+sovereignty. No hero of history — no
+brave and resolute Englishman —
+no King Hal, gay in his excesses,
+noble in his transformation, the very
+type of Anglo - Saxon manliness — comes within a thousand miles
 of that mystic traveller between
-lifeand death,that impersonationof
-all the doubts and questioningsof
+life and death, that impersonatio nof
+all the doubts and questionings of
 humanity, in the heart of a people
-which has no turn for philosophy,a
-race prompt and ready,and more
-apt at blows than words. Earely
+which has no turn for philosophy, a
+race prompt and ready, and more
+apt at blows than words. Rarely
 has there happened in the mental
-historyof a country so rare a phe- nomenon
-And we know no par- allel
+history of a country so rare a phenomenon.
+And we know no parallel
 to it in any other national
-experience,unless it were in Spain,
-where,however,the longlean figure
-of that forlorn and last knighterrant
+experience, unless it were in Spain,
+where, however, the long lean figure
+of that forlorn and last knight errant
 has too much humour in the
-atmospherethat surrounds it,and
+atmosphere that surrounds it,and
 too much mixture of the ludicrous,
 to hold the same position. The
-German Faust makes no such uni- versal
+German Faust makes no such universal
 claim upon the sympathies,
 and the French Alceste is but a
 weakened shadow of Hamlet; while
-in all these greatconceptionsthere
-is somethingwhich chimes in with
+in all these great conceptions there
+is something which chimes in with
 the national temper of the race
 that has produced them. The
-Spaniard'shyper-chivalry, the Ger- man's
+Spaniard's hyper-chivalry, the German's
 wild yet carnal mysticism,
 the Frenchman's bitter distinctness
-of perceptionand cynic-sentimental
-tendency,are all more or less em- bodied
+of perception and cynic-sentimental
+tendency, are all more or less embodied
 in these central figuresof
 their literature. But that we, who
-prideourselves upon our national
-energy and practicalcharacter,and
-whose faith it is that " if it were
+pride ourselves upon our national
+energy and practical character, and
+whose faith it is that "if it were
 done when 'tis done, then 'twere
-well it were done quickly,"" that
+well it were done quickly," — that
 we should have selected Hamlet from
-among all the poeticalcreations in
-which we are so rich,as the object
-of our unanimous interest,is one of
-the strangestfacts in literaryhis- tory.
-It would be incredible,were
-it not absolutelytrue.
+among all the poetical creations in
+which we are so rich, as the object
+of our unanimous interest, is one of
+the strangest facts in literary history.
+It would be incredible, were
+it not absolutel ytrue.
 This reign of Hamlet over the
-English imaginationcomes from
+English imagination comes from
 time to time to a sudden climax,
 by means of some new or powerful
-actor ;
-and we are at presentin the
-midst of one of those hightides of
-popularinterest. Mr Irvingis do- ing
-what all his greatpredecessors
-on the stagehave done,with vary- ing
+actor;
+and we are at presentmin the
+midst of one of those high tides of
+popular interest. Mr Irving is doing
+what all his great predecessors
+on the stage have done, with varying
 power and success; and as it
 is now a long time since any actor
-has attemptedperseveringlyto win
-this crown of reputation,the effort
-is all the more interesting.The
-lastattemptof the kind,and indeed
-the onlyone which comes within
-our own experienceof the stage,
+has attempted perseveringly to win
+this crown of reputation, the effort
+is all the more interesting. The
+last attemptof the kind, and indeed
+the only one which comes within
+our own experience of the stage,
 was that made by Fechter more
 than a dozen years ago. We do
-not ourselves sympathisewith the
-feelingwhich makes some people
-refuse their suffrageto an admirable
-and accomplishedactor,because his
+not ourselves sympathise with the
+feeling which makes some people
+refuse their suffrage to an admirable
+and accomplished actor,because his
 English was somewhat defective.
 This is one of the criticisms which
-are becomingmore and more gen- eral
+are becoming more and more general
 among us, and which dwell
-upon external and minute detail,in
-entire indifference to the spiritand
-soul of the performance.Fechter
+upon external and minute detail, in
+entire indifference to the spirit and
+soul of the performance. Fechter
 has fallen out of fashion. Perhaps
 he never did secure the critics so
-completelyon his side as he did the
-simplemultitudes who used to hang
+completely on his side as he did the
+simple multitudes who used to hang
 on his lips;
-but at all events it re- quires
+but at all events it requires
 courage now to produce his
 name, in face of the superciliously
-indulgentsmile with which it is re- cived
+indulgent smile with which it is received
 by those who are supposed
-to know. Fechter's Hamlet, how- ever,
+to know. Fechter's Hamlet, however,
 was, we are bold to say, the
-most interestingpieceof acting
-which we have ever seen ;
+most interesting piece of acting
+which we have ever seen;
 and his
-Englishcan hardlybe said to have
+English can hardly be said to have
 been more defective than that which
-Mr Irvinghas managed to make the
-publicaccept as a possiblerender- ing
-of Shakespeare'snoble tongue.
+Mr Irving has managed to make the
+public accept as a possible rendering
+of Shakespeare's noble tongue.
 But few things could be more
 unlike than the breadth and ease
-of the great French actor's treat- ment,
-and the laborious and in- finitely
-painstakingeffort of the
-Hamlet who is at presentin posses- sion
+of the great French actor's treatment,
+and the laborious and infinitely
+painstaking effort of the
+Hamlet who is at present in possession
 of the stage. It is impossible,
 we suppose, without some touch of
 genius,to have attained the mastery
-over the publicwhich Mr Irving
-undoubtedlypossesses. In this age
-of burlesquesand dramatic folly,
-he has gainedthe completeand ab- sorbed
-attention,nightafter night,
-of a largeand highly- cultivated
-audience,and succeeded in moving
+over the public which Mr Irving
+undoubtedly possesses. In this age
+of burlesques and dramatic folly,
+he has gained the complete and absorbed
+attention, night after night,
+of a large and highly cultivated
+audience, and succeeded in moving
 societyin London to an almost
-universal interest in every new at- tempt
-he makes " which is no small
-triumph. Our own opinion,how- ever,
-is,that this remarkable actor
+universal interest in every new attempt
+he makes -- which is no small
+triumph. Our own opinion, however,
+is, that this remarkable actor
 has attained his successes more by
 sheer force of character than by
 genius. He has conquered the
-publicby his bow and his spear
-" by means of the intense feel
-ing and concentrated energy of
+public by his bow and his spear
+-- by means of the intense feeling and concentrated energy of
 mind with which, it is evident,
-he approacheshis work " labouring
+he approaches his work --- labouring
 at it like an athlete of Michael
-Angelo, with every muscle start- ing
+Angelo, with every muscle starting
 and every sinew strung to its
 utmost tension. He is in such
-deadly earnest in everythinghe
-does that we can scarcelyrefuse our
+deadly earnest in everything he
+does that we can scarcely refuse our
 interest to the effort which costs so
 much. And as difficulty overcome
-is universallyrecognisedas a very
-highattraction to human curiosity
-and interest,there must alwaysbe
-a largesection of mankind to whom
-the sightof the struggleby which
+is universally recognised as a very
+high attraction to human curiosity
+and interest,there must always be
+a large section of mankind to whom
+the sightof the struggle by which
 that difficultyis overcome will
-always be more impressiveand
-affectingthan the success which
-looks easy, the calm masteryof the
-greaterartist who fightsand strains
-too in his time,but that not in,
+always be more impressive and
+affecting than the success which
+looks easy, the calm mastery of the
+greater artist who fights and strains
+too in his time, but that not in,
 but out of, sight of the gazing
 crowd. This is not Mr Irving's
-way : he takes the publicinto his
+way : he takes the public into his
 confidence,and shows them the
-beads of toilupon his forehead,the
+beads of toil upon his forehead, the
 quiver in his limbs of muscular
-and nervous as well as mental ex-rtion.
+and nervous as well as mental exertion.
 It is something like a
-gladiatorthat we have before us,
-" takingarms
-"
-" as says our Shake- speare,
+gladiator that we have before us,
+"taking arms"
+as says our Shakespeare,
 with that confusion of
-metaphor at which we laugh ten- drly,
-likinghim the better,su- preme
-master, for the slipthat
-proves him human "
-" againsta sea
-of troubles,"facingall the wild
-beasts of difficulty, and rendinghis
-way to the prizewhich the excited
-spectatorsaccord him, almost more
+metaphor at which we laugh tenderly,
+liking him the better,supreme
+master, for the slip that
+proves him human ---
+"against a sea
+of troubles," facing all the wild
+beasts of difficulty, and rending his
+way to the prizew hich the excited
+spectators accord him, almost more
 for the pluck and force and energy
 with which he has toiled for it,
-than for the excellence of the per- fomance.
-The peoplewho crowd
-the Lyceum every nighthave thus,
-if not a first-raterepresentationof
-Hamlet,yet a very interestingand
-even excitingspectacleset before
-them " the sight of an able and
+than for the excellence of the perfomance.
+The people who crowd
+the Lyceum every night have thus,
+if not a first-raterepresentation of
+Hamlet, yet a very interestin gand
+even exciting spectacle set before
+them --- the sight of an able and
 eccentric mind full of contortions,
-yet also of strength,strugglingwith
+yet also of strength, struggling with
 all the power nature has given it,
-upward to the platformof,genius,
-with every facultystrained,and its
+upward to the platform of,genius,
+with every faculty strained,and its
 whole beingquiveringin the effort.
 There are those who mount to that
 platform lightly,by grace of na- ture,
