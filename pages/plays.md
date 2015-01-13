@@ -6,7 +6,7 @@ permalink: "/plays/"
 
 <tr>
 <td style="width: 33.33%;text-align:left;vertical-align:top;">
-<h3><span class="mw-headline" id="Comedies">Comedies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span></span></span></h3>
+<h3><span class="mw-headline" id="Comedies">Comedies</span><span class="mw-editsection"><span class="mw-editsection-bracket"></span></span></span></h3>
 <ol>
 <li><i><a href="/wiki/The_Tempest_(play)" title="The Tempest (play)" class="mw-redirect">The Tempest</a></i> *</li>
 <li><i><a href="/wiki/The_Two_Gentlemen_of_Verona" title="The Two Gentlemen of Verona">The Two Gentlemen of Verona</a></i></li>
@@ -28,7 +28,7 @@ permalink: "/plays/"
 </ol>
 </td>
 <td style="width: 33.33%;text-align:left;vertical-align:top;">
-<h3><span class="mw-headline" id="Histories">Histories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shakespeare%27s_plays&amp;action=edit&amp;section=9" title="Edit section: Histories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Histories">Histories</span><span class="mw-editsection"><span class="mw-editsection-bracket"></span></span></span></h3>
 <div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Shakespearean_history" title="Shakespearean history">Shakespearean history</a></div>
 <ol>
 <li><i><a href="/wiki/The_Life_and_Death_of_King_John" title="The Life and Death of King John" class="mw-redirect">King John</a></i></li>
@@ -44,8 +44,7 @@ permalink: "/plays/"
 </ol>
 </td>
 <td style="width: 33.33%;text-align:left;vertical-align:top;">
-<h3><span class="mw-headline" id="Tragedies">Tragedies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shakespeare%27s_plays&amp;action=edit&amp;section=10" title="Edit section: Tragedies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Shakespearean_tragedy" title="Shakespearean tragedy">Shakespearean tragedy</a></div>
+<h3><span class="mw-headline" id="Tragedies">Tragedies</span><span class="mw-editsection"></span></span></h3>
 <ol>
 <li><i><a href="/wiki/Troilus_and_Cressida" title="Troilus and Cressida">Troilus and Cressida</a> **</i></li>
 <li><i><a href="/wiki/Coriolanus" title="Coriolanus">Coriolanus</a></i></li>
