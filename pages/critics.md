@@ -7,7 +7,7 @@ permalink: "/critics/"
 ####General:
 
 * [Preface to Edition of Shakespeare](/pope.preface/) — Alexander Pope
-* [Preface to Edition of Shakespeare](/Johnson.preface/) — Samuel Johnson
+* [Preface to Edition of Shakespeare](/johnson.preface/) — Samuel Johnson
 
 
 
