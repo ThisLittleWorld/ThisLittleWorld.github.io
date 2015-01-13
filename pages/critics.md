@@ -8,7 +8,7 @@ permalink: "/critics/"
 
 #####Poetry:
 
-*[To the Memory of My Beloved the Author, Mr. William Shakespeare](/jonson.elegy/) — Ben Jonson
+* [To the Memory of My Beloved the Author, Mr. William Shakespeare](/jonson.elegy/) — Ben Jonson
 
 
 #####Prose:
