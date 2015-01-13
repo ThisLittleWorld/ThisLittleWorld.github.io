@@ -6,8 +6,7 @@ permalink: "/plays/"
 
 <tr>
 <td style="width: 33.33%;text-align:left;vertical-align:top;">
-<h3><span class="mw-headline" id="Comedies">Comedies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shakespeare%27s_plays&amp;action=edit&amp;section=8" title="Edit section: Comedies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Shakespearean_comedy" title="Shakespearean comedy">Shakespearean comedy</a></div>
+<h3><span class="mw-headline" id="Comedies">Comedies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span></span></span></h3>
 <ol>
 <li><i><a href="/wiki/The_Tempest_(play)" title="The Tempest (play)" class="mw-redirect">The Tempest</a></i> *</li>
 <li><i><a href="/wiki/The_Two_Gentlemen_of_Verona" title="The Two Gentlemen of Verona">The Two Gentlemen of Verona</a></i></li>
