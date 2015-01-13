@@ -29,7 +29,6 @@ permalink: "/plays/"
 </td>
 <td style="width: 33.33%;text-align:left;vertical-align:top;">
 <h3><span class="mw-headline" id="Histories">Histories</span><span class="mw-editsection"><span class="mw-editsection-bracket"></span></span></span></h3>
-<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Shakespearean_history" title="Shakespearean history">Shakespearean history</a></div>
 <ol>
 <li><i><a href="/wiki/The_Life_and_Death_of_King_John" title="The Life and Death of King John" class="mw-redirect">King John</a></i></li>
 <li><i><a href="/wiki/Richard_II_(play)" title="Richard II (play)">Richard II</a></i></li>
