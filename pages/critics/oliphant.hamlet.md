@@ -1624,25 +1624,25 @@ more natural. <br>
 That he does not think any detail
 trivial is apparent from his notes in
 a contemporary, the last of which is
-occupiedwith a defence of his own
+occupied with a defence of his own
 practice in withdrawing the two
-portraitsof traditionary use, which
-have hitherto figuredin the queen's
+portraits of traditionary use, which
+have hitherto figured in the queen's
 chamber, and afforded a visible text
 for Hamlet's speech —
 "Look here,
-upon this picture,and on this." Mr
-Irving'scrotchet on this point is
-reallyunimportant; though it is
-somewhat confusing,we think,to
-the spectator,to have so distinct an
+upon this picture, and on this." Mr
+Irving's crotchet on this point is
+really unimportant; though it is
+somewhat confusing, we think, to
+the spectato, to have so distinct an
 allusion without any visible ground
-for it ;
-and the suggestionhe makes,
+for it;
+and the suggestion he makes,
 that the stage has four walls,and
-that the portraitsmay be supposed
-to be hangingupon that which "is
-onlytheoretical "
+that the portraits may be supposed
+to be hanging upon that which "is
+only theoretical "
 " which,in reality,
 is the theatre,with all its crowding
 faces" is somewhat ludicrous. The
