@@ -4,6 +4,8 @@ title: Hamlet
 permalink: "/oliphant.hamlet/"
 ---
 
+###By Margaret Oliphant
+
 IT is common to say that no actor
 upon the English stage, who has
 any ambition or love for his profession,
@@ -604,7 +606,7 @@ Horatio, is at the first moment
 scarcely less ready and genial than his
 salutation of the other friends who
 are not true: "Good lads,how do ye
-both ?" he cries, with happy frankness,
+both?" he cries, with happy frankness,
 to Rosencrantz and Guildenstern, before
 he has seen the treachery
 in their faces;
@@ -620,410 +622,385 @@ ever-preserved love!" This is no
 melancholy philosopher above the
 range of the young cavaliers, the soldiers
 and scholars of Wittenberg;
-but a true comrade " one whose
-superiorrank made him onlymore
+but a true comrade — one whose
+superior rank made him only more
 generous
-in his brotherhood,more
+in his brotherhood, more
 dependent upon their affection.
 And it is by means of the happy
-likingsof his youththat almost all
-the macliineryof the drama is con- structed.
-The playersare brought
-to him naturally,as to the source of
+likings of his youth that almost all
+the machinery of the drama is constructed.
+The players are brought
+to him naturally, as to the source of
 patronage and favour. They had
-been of his retinue before,and he
+been of his retinue before, and he
 knows each one, and has a gracious
 word for the hobbledehoy who
-playsthe women's parts,as well as
-for the leader of the troupe,whose
+plays the women's parts, as well as
+for the leader of the troupe, whose
 emotion at his own performance
-fillsthe princewith a sad yet not
+fills the prince with a sad yet not
 unamused wonder. If he had not
 been their constant patron, and
-known their capacityof old, the
+known their capacity of old, the
 expedient of the play could not
-have come in. And the very cli- max
-of the tragedyis procuredby
+have come in. And the very climax
+of the tragedyis procured by
 similar means. Even in the midst
 of his great gloom and overthrow,
 Hamlet is still capable of being
-piqued by the brag of Laertes' pro- ficiency
-in fencing,which proves
-that such an accomplishmentwas
-of pricewith him. But for this
-there would have been no appro- priateness
-in the king'swager on
-Ids head. It is "
-a very riband in
-the cap of youth,"part of "the
-light and careless living"of the
-blooming season. Strangewords to
-be appliedto Hamlet ! yet so true
+piqued by the brag of Laertes' proficiency
+in fencing, which proves
+that such an accomplishment was
+of price with him. But for this
+there would have been no appropriateness
+in the king's wager on
+his head. It is "a very riband in
+the cap of youth," part of "the
+light and careless living" of the
+blooming season. Strange words to
+be applied to Hamlet! yet so true
 that the skill of a rival has still
-sufficient force to kindle the halfquenched
-fireof youthfulemulation
-in him, notwithstandingall his bur- dens.
-Last of all,there is the trifling
-of earlylove " less love than fancy"
+sufficient force to kindle the half-quenched
+fire of youthful emulation
+in him, notwithstanding all his burdens.
+Last of all, there is the trifling
+of early love — less love than fancy —
 shaped upon the fantastic models of
-the reigningfashion,which Hamlet
+the reigning fashion, which Hamlet
 had not been too serious to play
-with,like his contemporaries.The
+with, like his contemporaries.The
 letter which Polonius reads to the
 king and queen is such a letter as
 Sir Percie Shafton might have
-written,the lightesttraffic of lovemaking,
-half sport,half earnest,"
-all youthfulextravaganceand com- pliment.
-" To my soul's idol,the
-beautified Ophelia,"" "an illphrase,
-a very vile phrase,"as Polonius
-justlyadds. This gay essay of gal- lntry
-is preciselywhat Laertes
-calls it in his earlyadvice to his
-sister,"
-a fashion and a toy in
-blood ;
-"
+written,the lightest traffic of lovemaking,
+half sport, half earnest, —
+all youthful extravagance and compliment.
+"To my soul's idol, the
+beautified Ophelia," — "an illphrase,
+a very vile phrase," as Polonius
+justly adds. This gay essay of gallntry
+is precisely what Laertes
+calls it in his early advice to his
+sister, "a fashion and a toy in
+blood;"
 it is nothing more than
-" the triflingof his favour." " Per- haps
-he loves you now," the pru- dent
-brother says ;
+"the trifling of his favour." "Perhaps
+he loves you now," the prudent
+brother says;
 but it is the
-lightfancyof youth,the inclination
-of nature in its crescent,not any
+light fancy of youth, the inclination
+of nature in its crescent, not any
 guarantee for what may be when
 "the inward service of the mind
 and soul" has attained its full
-width and growth. Still more de- cided
+width and growth. Still more decided
 upon this point is Polonius.
-" For Lord Hamlet,believe so much
-in him that he is young,"says the
+"For Lord Hamlet, believe so much
+in him that he is young," says the
 wary old chamberlain. He has
-been a dangerous young gallant,a
-noble princefull of all the charms
-and entertainments of his age ; sur- rounded
+been a dangerous young gallant, a
+noble prince full of all the charms
+and entertainments of his age; surrounded
 by gay comrades, soldier
-and courtier and scholar ; ready for
+and courtier and scholar; ready for
 every fresh amusement, to hear
-everythingnew the playershave on
-hand,to tryhis skillagainstwhoever
-offers,to wear a fair lady'sfavour
+everything new the players have on
+hand,to try his skill against whoever
+offers, to wear a fair lady's favour
 in his cap. Such has been the
-goldenyouthof the Prince of Den- mark
-: until suddenly,all at once,
+golden youth of the Prince of Denmark:
+until suddenly, all at once,
 as at the crack of doom, the mask
 has broken off the fair face of the
-world,and Hamlet has made the ir- redeemable
+world, and Hamlet has made the irredeemable
 discoverythat nothing
-is as it seems.
-It mightbe too long to attempt
+is as it seems.<br>
+It might be too long to attempt
 to show how the foundations of the
-world were more entirelybroken
-up by the specialguise in which
-this calamityovertook him, than
-theycould have been to Hamlet in
+world were more entirely broken
+up by the special guise in which
+this calamity overtook him, than
+they could have been to Hamlet in
 any other. There is indeed scarcely
 any way in which the whole keynote
 of nature could have been changed
-to him exceptthis. It could be done
-to Othello by the supposedfalsehood
-of the woman in whom his lifehad
-reblossomed,who was his consola- tion
-for allthe labours of existence ;
+to him except this. It could be done
+to Othello by the supposed falsehood
+of the woman in whom his life had
+reblossomed, who was his consolation
+for all the labours of existence;
 but no falsehood of love could have
-struck to despairthe young man
-only lightlystepping within the
-primrose path of dalliance,and
-capableof no tragicpassionthere.
-Where lie could be struck was in
-the very fountain of his life" his
+struck to despair the young man
+only lightly stepping within the
+primrose path of dalliance, and
+capable of no tragic passion there.
+Where he could be struck was in
+the very fountain of his life — his
 mother. The most degraded mind
-finds a certain refugethere. A
-woman by very rightof maternity
-is lifted out of the impuritiesand
-suspicionswhich may assail even
-those who are
-"
-as chaste as ice,as
+finds a certain refuge there. A
+woman by very right of maternity
+is lifted out of the impurities and
+suspicions which may assail even
+those who are "as chaste as ice,as
 pure as snow." She has a shield
 cast before her to quench all evil
-thoughts.If truth failseverywhere
-else,yet in her there is the source,
-the springsof unpollutedlife,the
-fountain of honour,the one original
-type of faithful affectionwhich can- not
-be doubted,even if heaven and
-earth were meltingand dissolving.
+thoughts. If truth fails everywhere
+else, yet in her there is the source,
+the springs of unpolluted life, the
+fountain of honour, the one original
+type of faithful affection which cannot
+be doubted, even if heaven and
+earth were melting and dissolving.
 While that foundation stands fast,
-the world must still stand ;
-it can- not
+the world must still stand;
+it cannot
 fallinto irremediable ruin and
 destruction. When Hamlet first
-comes before us in " the customary
-suit of sober black/'which is in
-itself a protestationagainstthat
-unnatural marriage,this entire re- volution
+comes before us in "the customary
+suit of sober black," which is in
+itself a protestation against that
+unnatural marriage, this entire revolution
 of heaven and earth has
 happened to him. He is dragged
-in the train of the pageant, wit- nessing
-his mother's re-enthrone- ment,
-lookingon at all the endear- ments
+in the train of the pageant, witnessing
+his mother's re-enthronement,
+looking on at all the endearments
 of her monstrous bridehood,
-sick with disgustand misery,un- able
-to turn his back upon it all,or
+sick with disgust and misery, unable
+to turn his back upon it all, or
 save himself from the dishonour
 that invades his own veins from
-hers. " Fie on't! 0 fie!
-"
-he cries,
-with a loathingwhich involves all
-the world,and even himself,in its
-sick horror. The earth is
-" An unweeded garden,
-That grows to seed; things rank, and
-gross in nature,
-Possess it merely."
+hers. "Fie on't! 0 fie!" he cries,
+with a loathing which involves all
+the world, and even himself, in its
+sick horror. The earth is <br>
+<br>
+"An unweeded garden,<br>
+That grows to seed; things rank, and gross in nature, <br>
+Possess it merely." <br>
+<br>
 Foulness is everywhere. Oh that
 he could but melt and dissolve
-away " that it could be permittedto
-him to be no longer,to get done
-with the very consciousness of liv- ing.
-" Heaven and earth !
-" he
+away — that it could be permitted to
+him to be no longer, to get done
+with the very consciousness of living.
+"Heaven and earth!" he
 cries, in the impatience of his
-wretchedness," must I remem- 
-"Within a month,"
-Let me not think on't." Frailty,thy
-name is woman !
-A little month ; or ere those shoes were
-old,
-With which she follow'd my poor father's
-body,
-Like Niobe, all tears ;
-" why she, even
-she,"
-0 God ! a beast,that wants discourse of
-reason,
-Would have mourned longer."
+wretchedness, "must I rememember" — <br>
+<br>
+"Within a month,— <br>
+Let me not think on't." Frailty,thy name is woman! <br>
+A little month ; or ere those shoes were old, <br>
+With which she follow'd my poor father's body, <br>
+Like Niobe, all tears; why she, even she, — <br>
+0 God ! a beast,that wants discourse of reason,<br>
+Would have mourned longer." <br>
+<br>
 This horrible revelation of evil
-in the placewhere it should have
-been least suspected,this certainty
-which nothing can changeor ex- cuse
-or atone for,is the founda- tion
+in the place where it should have
+been least suspected, this certainty
+which nothing can change or excuse
+or atone for, is the foundation
 of all that follows. The
-murder is less,not more than this.
-It may be proved,it may be re- vnged,
-and in any case it givesa
+murder is less, not more than this.
+It may be proved,it may be reevnged,
+and in any case it gives a
 feverish
-energy to the sufferer,an
-escape for the moment from a deep- er
-bitterness still;but even were
-it disprovedor were it avenged,it
-would changenothing. The worst
-that can happenhas happened;that
-first discoverywhich makes every
-other possiblehas been made. How
-it is graduallysupplementedby
-other treacheries,and how the noble
+energy to the sufferer, an
+escape for the moment from a deeper
+bitterness still; but even were
+it disproved or were it avenged, it
+would change nothing. The worst
+that can happen has happened; that
+first discovery which makes every
+other possible has been made. How
+it is gradually supplemented by
+other treacheries, and how the noble
 victim finds himself surrounded by
 every cheat that is most appalling
-to his nature,all chimingin,with
-one baseness after another,is in our
+to his nature, all chiming in, with
+one baseness after another, is in our
 judgment the real argument of the
-tragedy" ending as it does in an
-imbroglioof heapedfalsehood upon
-falsehood,confusion of murderous
-lie on lie,which leads to the only
-end that is possible" an end of uni- versal
-slaughter,embodyingat once
-the utter success and failureof multi- plied
-treachery,not capableof stop- ping
+tragedy — ending as it does in an
+imbroglio of heaped falsehood upon
+falsehood, confusion of murderous
+lie on lie ,which leads to the only
+end that is possible — an end of universal
+slaughter, embodying at once
+the utter success and failure of multiplied
+treachery, not capableof stopping
 when it would. The murder is
-broughtinto the foreground,arrest- ing
+brought into the foreground, arresting
 the attention of the spectator,
-holdingthe chief placefor a time,
-then utterlydisappearingduringthe
-last act as if it had not been " be- cause
-it is,in fact,not the central
-strain of the drama at all,but only
-a tremendous complicationgiving
+holdingthe chief place for a time,
+then utterly disappearing during the
+last act as if it had not been — because
+it is, in fact, not the central
+strain of the drama at all, but only
+a tremendous complication giving
 life and temporary vigour to the
 hero's terrible illumination and
-despair.
+despair. <br>
 Let us endeavour to trace this
-under-swell of dark and accumu- lating
+under-swell of dark and accumulating
 misery through the play.
-Hamlet is, in fact,roused into
+Hamlet is, in fact, roused into
 heroic action whenever the question
 of his father's murder is really
-before him : he vacillates about
+before him: he vacillates about
 his vengeance; but in the great
-scenes with the ghost,the arrange- ments
-for the players,and also the
+scenes with the ghost, the arrangements
+for the players, and also the
 interview with his mother, there
 is neither hesitation nor weakness
 about him. It is when outside the
-range of that inspiringexcitement
-that the darker misery seizes pos- sesion
+range of that inspiring excitement
+that the darker misery seizes possesion
 of his soul; and this we
 think we shall be able to show.
 As for the madness which he has
 declared it to be his intention to
-simulate,we see very little of that
+simulate, we see very little of that
 on the stage or in the text. We
 are left to infer that he must
-have carried out his own sugges- tions
-of policy("I perchancehere- aftr
+have carried out his own suggestions
+of policy ("I perchance hereafter
 may think meet to put an
-antic dispositionon "),by the fact
+antic dispositionon "), by the fact
 that immediately after the scene
-with the ghost (inwhich there is
-certainlyno madness) we plunge
+with the ghost (in which there is
+certainly no madness) we plunge
 almost at once into the talk of the
-court about "Lord Hamlet's lun- acy."
-This appears to have devel- oped
+court about "Lord Hamlet's lunacy."
+This appears to have developed
 so gradually,as to have left the
-king and queen time to send to Wit- tenberg
-for Eosencrantz and Guildenstern
-;
+king and queen time to send to Wittenberg
+for Rosencrantz and Guildenstern;
 but the only evidence we
 have of it is the report which the
-frightenedOphelia brings to her
+frightened Ophelia brings to her
 father of the strange visit the
 prince has paid her as she was
-" sewing in her closet." Ophelia,
+"sewing in her closet." Ophelia,
 to judge by the admonitions of her
-relatives,had not been by any
+relatives, had not been by any
 means disinclined to admit the
-wooing of Hamlet. " You have
+wooing of Hamlet. "You have
 of your audience been most free
 and bounteous,"says her father "
-a prudent man though an ambi
-"From this time
-Be somewhat scanter of your maiden
-presence ;
-Set your entreatment at a higherrate
-Than a command to parley."
+a prudent man though an ambitious: — <br>
+<br>
+"From this time <br>
+Be somewhat scanter of your maiden presence; <br>
+Set your entreatment at a higher rate <br>
+Than a command to parley." <br>
+<br>
 The simple and submissive girl,
 most shallow of all Shakespeare's
-women " who is,throughout her
-brief career before us, entirelyun- conscious,
+women — who is, throughout her
+brief career before us, entirely unconscious,
 it is evident, of any
-claim of loyaltyin love,and who
+claim of loyalty in love, and who
 thinks a great deal more of her
-father's approbationthan of what
-is due to Hamlet " givesus in real- ity
-the onlything that approaches
+father's approbation than of what
+is due to Hamlet — gives us in reality
+the only thing that approaches
 to evidence of madness on his part.
-" 0 my lord,my lord,I have been
-so affrighted!
-" she cries,rushing
+"O my lord,my lord,I have been
+so affrighted!" she cries,rushing
 with a child's simple impulse to
-her father.
-"Lord Hamlet, " with his doublet all
-unbrac'd ;
-No hat upon his head ;
-his stockings
-foul;d,
-Ungarter'd,and down-gyved to his ankle ;
-Pale as his shirt ;
-his knees knocking
-each other,
-And with a look so piteousin purport,
-As if he had been loosed out of hell,
-To speak of horrors," he comes before me.
-Pol. Mad for thy love ?
-Oph. My lord,I do not know ;
-But, truly,I do fear it.
-Pol. What said he?
-Oph. He took me by the wrist,and
-held me hard:
-Then goes he to the lengthof all his arm ;
-And, with his other hand thus o'er his
-brow,
-He falls to such perusalof my face,
-As he would draw it. Long stay'dhe so ;
-At last," a little shaking of mine arm,
-And thrice his head thus waving up and
-down, "
-He raised a sighso piteousand profound,
-As it did seem to shatter all his bulk,
-And end his being: that done, he lets
-me go;
-And, with his head over his shoulder
-turn'd,
-He seem'd to find his way without his
-eyes ;
-For out o' doors he went without their
-help,
-And, to the last,bended their lighton
-me."
-Curiouslyenough,this is the only
-singlebit of evidence in the whole
+her father. <br>
+"Lord Hamlet, " with his doublet all unbrac'd; <br>
+No hat upon his head ; his stockings foul'd, <br>
+Ungarter'd,and down-gyved to his ankle; <br>
+Pale as his shirt; his knees knocking each other, <br>
+And with a look so piteous in purport, <br>
+As if he had been loosed out of hell, <br>
+To speak of horrors," he comes before me. <br>
+Pol. Mad for thy love? <br>
+Oph. My lord,I do not know; <br>
+But, truly,I do fear it. <br>
+Pol. What said he? <br>
+Oph. He took me by the wrist, and held me hard: <br>
+Then goes he to the length of all his arm; <br>
+And, with his other hand thus o'er his brow, <br>
+He falls to such perusal of my face, <br>
+As he would draw it. Long stay'd he so; <br>
+At last, — a little shaking of mine arm, <br>
+And thrice his head thus waving up and down, <br> 
+He raised a sigh so piteous and profound, <br>
+As it did seem to shatter all his bulk, <br>
+And end his being: that done, he lets me go; <br>
+And, with his head over his shoulder turn'd, <br>
+He seem'd to find his way without his eyes; <br>
+For out o' doors he went without their help, <br>
+And, to the last, bended their light on me." <br>
+<br>
+Curiously enough, this is the only
+single bit of evidence in the whole
 play which, we venture to say,
 would be received by any court as
 proof of Hamlet's madness. His
-own lightand bitter "chaff" with
+own light and bitter "chaff" with
 Polonius would take in no lawyer.
 Whether it might be that in the
 interval which takes place behind
 the scenes, Hamlet had perceived
 that the sweet, childish nature of
-Opheliahad been taken possession
+Ophelia had been taken possession
 of by the old courtier,and that she
-was a real,ifinnocent,snare for him,
+was a real, if innocent,snare for him,
 it is hard to tell;
 but it is scarcely
-possiblefor the reader to imagine
+possible for the reader to imagine
 a delusion more absurd than that
-the greatand princelyHamlet had
+the greatand princely Hamlet had
 gone mad for the love of Ophelia.
-Though her pretty simplicityand
-haplessfate givea factitious interest
-to her,it is manifest that this soft
-submissive creature, playinginto
-her father's hands as she does,is in
-no way a possiblemate for Hamlet ;
+Though her pretty simplicity and
+hapless fate give a factitious interest
+to her, it is manifest that this soft
+submissive creature, playing into
+her father's hands as she does, is in
+no way a possible mate for Hamlet;
 neither does he say a word which
-would justifyus in thinkingthat
-any serious passionfor her increased
-the confusion of painand miseryin
-his mind. Perhaps that long per- usal
-of her face,of which she tells
-her father,was the regretful,tender
-leave-takingof the man from whom
+would justify us in thinking that
+any serious passion for her increased
+the confusion of painand misery in
+his mind. Perhaps that long perusal
+of her face, of which she tells
+her father, was the regretful, tender
+leave-taking of the man from whom
 all toys and fashions of the blood
 had fallen away, who could write
-sonnets no longer,nOr rhymes to his
-lady'seyebrow. Anyhow, the fact
-remains that duringthe time which
-elapsedbetween Hamlet's resolution
-to "
-put an antic dispositionon,"
+sonnets no longer, nor rhymes to his
+lady's eyebrow. Anyhow, the fact
+remains that during the time which
+elapsed between Hamlet's resolution
+to "put an antic disposition on,"
 and the arrival of Rosencrantz and
-Guildenstern at the requestof the
-king,the events upon which the
+Guildenstern at the request of the
+king, the events upon which the
 notion of Hamlet's madness has
-been built had taken place,and
+been built had taken place, and
 that all we know of them is this
 report of Ophelia's. He has, it
 would appear, "borne himself
 strange and odd," as he said he
-would do, and Polonius has. found
+would do, and Polonius has found
 out the reason on his side,and
 Rosencrantz and Guildenstern have
 been sent for to do it on theirs
-When Hamlet appears to us again,he
+When Hamlet appears to us again, he
 is mocking Polonius with wild talk
-" talk so full of meaning and mis- chief,
+ — talk so full of meaning and mischief,
 that even the old chamberlain
-with his foregoneconclusion in his
-head,is fain to give vent to the
-confession,"though this be mad- ness,
+with his foregone conclusion in his
+head, is fain to give vent to the
+confession, "though this be madness,
 yet there's method in't."
 This transparent assumption of
-follyblows off the moment he sees
+folly blows off the moment he sees
 the new-comers, whom he meets at
 first with the frankest pleasure.
 " Sure I am, there are not two men
