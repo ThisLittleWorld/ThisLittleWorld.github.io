@@ -130,7 +130,7 @@ which we are so rich, as the object
 of our unanimous interest, is one of
 the strangest facts in literary history.
 It would be incredible, were
-it not absolutel ytrue.
+it not absolutely true.<br>
 This reign of Hamlet over the
 English imagination comes from
 time to time to a sudden climax,
@@ -262,374 +262,363 @@ them --- the sight of an able and
 eccentric mind full of contortions,
 yet also of strength, struggling with
 all the power nature has given it,
-upward to the platform of,genius,
-with every faculty strained,and its
-whole beingquiveringin the effort.
+upward to the platform of genius,
+with every faculty strained, and its
+whole being quivering in the effort.
 There are those who mount to that
-platform lightly,by grace of na- ture,
-or seem to do so ;
+platform lightly, by grace of nature,
+or seem to do so;
 but these,
-if finer and higher,are perhaps
-in realityless interestingthan the
-indomitable fighterwho struggles
+if finer and higher, are perhaps
+in reality less interesting than the
+indomitable fighter who struggles
 upward to it, his teeth set, his
-shoulders squared,his every limb
-in energeticaction. Mr Irvingin
-this pointof view presentsa spec- tacle
-to gods and men of which itis
-difficult to exaggeratethe interest.
-He has almost every qualitywhich
-should interest the lookers-on " a
-fine and generous aim,a high cour- age,
-and the most determined ten- acity
+shoulders squared, his every limb
+in energetic action. Mr Irving in
+this pointof view presents a spectacle
+to gods and men of which it is
+difficult to exaggerate the interest.
+He has almost every quality which
+šshould interest the lookers-on — a
+fine and generous aim, a high courage,
+and the most determined tenacity
 of purpose. If he cannot scale
-these heights,we may be sure he
-will die half-way,always fighting
-upwards, never givingin. He is
-in a hundred perilsevery day,and
-nothing daunts him," perilsof
-nature, perilsof excessive friend- ship,
-perilsof success " sometimes
+these heights, we may be sure he
+will die half-way, always fighting
+upwards, never giving in. He is
+in a hundred perils every day, and
+nothing daunts him, — perils of
+nature, perils of excessive friendship,
+perilsof success — sometimes
 the worst of all. Yet every step
-he has made, even when we can- not
-admire it,we are obliged to
-recogniseas an honest endeav- our
+he has made, even when we cannot
+admire it, we are obliged to
+recognise as an honest endeavour
 towards that which is best
 and highest. So far as can be
-judged from without,never man
-was more perfectlysincere or stren- uous
+judged from without, never man
+was more perfectly sincere or strenuous
 in his determination to do
 well. It is more than an artistic
-effort,it is a moral conflict with ad- verse
+effort,it is a moral conflict with adverse
 powers of nature in which he
 is engaged;
 and if he fails in the
 end, his failure will be from no
-fault of his,no want of zeal or con- science
+fault of his, no want of zeal or conscience
 or energy in the man. One
-does not generallyuse such words
-in respectto an actor's studyof his
-part; but it is the highesttesti- monial
+does not generally use such words
+in respect to an actor's study of his
+part; but it is the highest testimonial
 that can be given to Mr
 Irving to say that we are obliged
-to employ them after witnessinghis
-evening'swork.
-Notwithstandingwhat has been
-said of the unanimity of English,
-feelingin respectto Hamlet, there
-is,perhaps,no dramatic creation in
+to employ them after witnessing his
+evening's work. <br>
+Notwithstanding what has been
+said of the unanimity of English
+feeling in respect to Hamlet, there
+is, perhaps, no dramatic creation in
 the world about which there has
 been so much difference of opinion.
-.Naturallythe greatmass of readers
-and spectatorsmake no attempt to
-analyseit at all. The greatnessof
-the mind presentedbefore them,
+Naturally the great mass of readers
+and spectators make no attempt to
+analyse it at all. The greatness of
+the mind presented before them,
 the consciousness of a human being
-most real and tangible,though
-loomingover them with a confused
-greatnesswhich theycan appreciate
+most real and tangible, though
+looming over them with a confused
+greatness which they can appreciate
 without being able to understand
-it,is enough to satisfyall their
+it, is enough to satisfy all their
 intellectual requirements; though
-even in this widest circle,the ques- tion
+even in this widest circle, the question
 whether Hamlet's madness was
-assumed or real will arouse a cer- tain
+assumed or real will arouse a certain
 intellectual interest. But above
-the firstlevel of the admiringand
-uncritical publicthere are many
-circlesof critics,each of which has
-its spokenor unspoken creed in re- gard
-to Shakespeare'sgreatcreation.
-There is scarcelya drawing-room
+the first level of the admiring and
+uncritical public there are many
+circles of critics, each of which has
+its spoken or unspoken creed in regard
+to Shakespeare's great creation.
+There is scarcely a drawing-room
 party among the educated classes in
-which, were the questionmooted,
+which, were the question mooted,
 there would not be found warm
-partisanson both sides of the ques- tion,
-and inquirerswith ideas of
+partisans on both sides of the question,
+and inquirers with ideas of
 their own as to the real cause of
-that vacillation,which is the most
+that vacillation, which is the most
 obvious feature in the character to
-the ordinaryobserver. We might
-perhapsask, though without any
-possibilityof reply,whether the
+the ordinary observer. We might
+perhaps ask, though without any
+possibility of reply, whether the
 poet himself had any intention of
 making this mystery clear to us;
-or whether, indeed,it was within
+or whether, indeed, it was within
 the range of his genius to fathom
-altogetherthe greatand mysterious
-being" greaterand more wonderful
-by far than the Warwickshire yeo- man's
-son, the playwrightof the
-Globe " whom he put miraculously
+altogether the great and mysterious
+being — greater and more wonderful
+by far than the Warwickshire yeoman's
+son, the playwright of the
+Globe — whom he put miraculously
 into the world to live there for ever,
-outlastinga hundred generationsof
+outlasting a hundred generations of
 men. This, however, is a view
-which critics never, and the hum- ble
-reader very rarely,consent to
-take. That mysticindependence
-its creator which belongsto a great
-poeticalconceptionof character,re- flecting,
-perhaps,more trulythan
-anythingelse can, our own mortal
-independence(sofar at least as con- sciousness
-goes)of our Maker, and
-power to contradict,and,as much as
-in us lies thwart,His purposes, is
+which critics never, and the humble
+reader very rarely, consent to
+take. That mystic independence of
+its creator which belongs to a great
+poetical conception of character, reflecting,
+perhaps, more truly than
+anything else can, our own mortal
+independence(so far at least as consciousness
+goes) of our Maker, and
+power to contradict, and, as much as
+in us lies thwart, His purposes, is
 incredible to most people. To our
-own thinkingitis plainenoughthat
-a dramatic conceptionof the highest
+own thinking, it is plain enough that
+a dramatic conception of the highest
 order does follow a law of its own
-beingwhich is not, as we think,
-entirelyunder the control of its
-originator." I did not do it; they
-did it themselves,"Thackeray(we
+being which is not, as we think,
+entirely under the control of its
+originator. "I did not do it; they
+did it themselves," Thackeray(we
 think)is reportedto have said of
 some of his heroes and heroines
 whose proceedingsdid not please
 the world; and the merest dabbler
-in fiction must be aware of a curi- os
-current of influence not origi- nated
+in fiction must be aware of a curious
+current of influence not originated
 by him which sweeps the
-personages of his storyhere and
-there,followingsome necessityof
+personages of his story here and
+there, following some necessity of
 their nature which he may not even
-comprehend,and which does not
-agree with his planfor them. We
-do not mean to implyan opinion
-that Hamlet escapedfrom the con- trol
+comprehend, and which does not
+agree with his plan for them. We
+do not mean to imply an opinion
+that Hamlet escaped from the control
 of the poet to whom he owes
 his birth ;
-but onlythat so greata
+but only that so great a
 creation might well have, like an
-actual being,many doubtful and
+actual being, many doubtful and
 unresolved points in him, over
-which spectatorsmight discuss,
+which spectators might discuss,
 without any absolute certainty,
 even on the part of his maker, as
-to which party was in the right.
+to which party was in the right.<br>
 To ourselves Hamlet is the greatest
 instance of that disenchantment
 which is,of all the miseries in the
 world,the one most crushingand
-most general. Disenchantment "
-disillusionment " that opening of
+most general. Disenchantment —
+desillusionment — that opening of
 the eyes to see a world altogether
 different from the world we have
-observed,which is about the bitter- est
-pang of which the soul is cap- able.
+observed, which is about the bitterest
+pang of which the soul is capable.
 It is the burden more or less
 of all the world's worst complaints.
 The common mass of us encounter it
-in detail,and have happilymanaged
+in detail,and have happily managed
 to weave some new veil over the
-painfulrealityin one regionbefore
-we are caught in another,and ob- liged
+painful reality in one region before
+we are caught in another,and obliged
 to look on and see the veils of
-imaginationstrippedfrom the facts
+imagination stripped from the facts
 of life. And no one can bear to
 dwell upon this unveiling. It
-bringsmadness or it bringsdeath ;
+brings madness or it brings death;
 or in the case of a noble mind too
-greatfor such brief and vulgarcon-lusion,
-it evolves a Hamlet " a man
+great for such brief and vulgar conclusion,
+it evolves a Hamlet — a man
 standing among the wrecks of life
 so deeply amazed, so confounded
 and heart-struck,that his trouble
-paralyseshim, and nothingseems
+paralyses him, and nothing seems
 worth doing of all that might be
-done. Such a one in real life,we
+done. Such a one in real life, we
 may perhaps say, was Leopardi,
 though without that spring of
 sweeter nature in him which kept
 Hamlet in being. In the case of
 the real man, we do not know what
 it was which turned all the milk
-to gall,and broughtthe spiritface
+to gall,and brought the spirit face
 to face with a universe of hideous
-follyand falsehood,instead of that
+folly and falsehood, instead of that
 world all dressed in smiles and
 sweetness in which he had taken
-delusive delight.The worst and
-most dismal depth of the philo- sophical
+delusive delight. The worst and
+most dismal depth of the philosophical
 despair which is called
 pessimism, was the natural issue
 with the Italian of that poisoning
-of all happierimpulse. What it
-was in the royalDane we all know.
-Hamlet isgreater,largerthan Leo- pardi
-;
-his nature would,we cannot
-doubt,have righteditself one time
-or other,had it not been so preci-itately
-cut short : but there is a
+of all happier impulse. What it
+was in the royal Dane we all know. <br>
+Hamlet is greater, larger than Leopardi;
+his nature would, we cannot
+doubt, have righted itself one time
+or other, had it not been so precipitately
+cut short: but there is a
 certain illumination in the contrast
-yet resemblance. The terriblegulf,
-unlightedby any star,into which
+yet resemblance. The terrible gulf,
+unlighted by any star, into which
 Leopardi plunged at the moment
 of which all his poems are full,
-the pointof lifeat which he awak- ened,
-and at which, as he tellsus,
+the point of life at which he awakened,
+and at which, as he tells us,
 the supreme delusion of his first
-happier impressions became ap- parent
-to him " has a profound
-blackness of despairin it which
+happier impressions became apparent
+to him — has a profound
+blackness of despair in it which
 is less within the range of our
 sympathies than the confused and
 gloomy world, still in the throes
-of earthquake,amid which Hamlet
-stands,sick at heart,gazing with
+of earthquake, amid which Hamlet
+stands, sick at heart, gazing with
 eyes of wild dismay at the sanctities
 which fall in succession into the
-dust one after another,leavinghim
+dust one after another, leaving him
 ever more and more haggard and
 bereaved. His father's death to be
-revenged,and allthat "cursed spite"
-to be set right,are rather livingin- fluences
+revenged,and all that "cursed spite"
+to be set right, are rather living influences
 than otherwise to his soul,
-bewildered with loss,and sick and
-hopelessin the downfall of every- thing
+bewildered with loss, and sick and
+hopeless in the downfall of everything
 that is sweet and fair around.
 These motives keep up a struggle
-within him, and in realityprevent
-the gloomy waves from closingover
-his head ;
+within him, and in reality prevent
+the gloomy waves from closing over
+his head;
 but yet have not acquired
-the consistencyof force necessary
-to drive him back into living,and
+the consistency of force necessary
+to drive him back into living, and
 into so much hope as would alone
-make livingpossible.His vacil- lton
-is but the struggleof that
-wholesome and righteouspassion
-againstthe inertness of despair,
+make livingpossible. His vacillaton
+is but the struggle of that
+wholesome and righteous passion
+against the inertness of despair,
 the cui bono of his disenchanted
-existence. He tries to rouse him- self,
+existence. He tries to rouse himself,
 but in vain. What were
-the good 1 If Claudius were slain,
+the good? If Claudius were slain,
 would that restore honour and
 purity to the desecrated house?
-could anything remake that pol- luted
+Could anything remake that polluted
 mother into the type of holy
-womanhood above corruption1 He
+womanhood above corruption? He
 tries to work himself up to the
 point of action, but there is no
-hope in him to givevigour to his
+hope in him to give vigour to his
 arm. Something of the old energy
-bursts out in fitsand starts,but is
-paralysedby this supreme sickness
-of heart and failure of all possibili- ties
+bursts out in fits and starts, but is
+paralysed by this supreme sickness
+of heart and failure of all possibilities
 of restoration. What Hamlet
-wants is more than a vengeance : it
+wants is more than a vengeance: it
 is a re-creation. Nothing short of
 the undoing of all the monstrous
 evil which has killed his soul in
-him, is worth his livingfor. Mend- ing
-is futile,the harm is too funda- metl,
+him, is worth his living for. Mending
+is futile, the harm is too fundamental,
 the misery too complete.
-Revenge would be a momentary sat
-isfaction,would givehim ease, as
+Revenge would be a momentary satisfaction, would give him ease, as
 when a wounded man tears off his
 bandages; but what more could
-revenge do for Hamlet? Eestore
+revenge do for Hamlet? Restore
 to him his world of youth, his
-trust in those around him, his be- lief
+trust in those around him, his belief
 that one is pure and another
-true,his spotlessmother,his inno- cet
-love,his loyalfriends'?" ah
-no ! not one of them. And there- fore,
+true, his spotlessmother,his innocent
+love, his loyal friends? — ah
+no ! not one of them. And therefore,
 now with flashes of wild scorn,
-now with utterances of deepestsad- ness,
-he stands " hesitating," as we
+now with utterances of deepest sadness,
+he stands —hesitating,— as we
 say, before the vengeance which
-will,he sees, be but a deception
-like all the rest,and make no real
-difference. Leopardi,the gloomy
-shadow of an actual Hamlet,had no
-possibilityeven of a stroke for life
-in the shapeof a revenge, no palp- abe
+will, he sees, be but a deception
+like all the rest, and make no real
+difference. Leopardi, the gloomy
+shadow of an actual Hamlet, had no
+possibility even of a stroke for life
+in the shapeof a revenge, no palpabe
 wrong which he could identify,
-nor practicalblow that would help
-him a little,or which he could even
-pretend might help him. There- fore
-the nobilityof a struggleis
+nor practical blow that would help
+him a little, or which he could even
+pretend might help him. Therefore
+the nobility of a struggle is
 wanting in him. More grandly,
 on nobler lines,and with a more
-majesticmodelling,the poet has
-worked out his fatallyilluminated,
-disenchanted,disappointed,heroic
+majestic modelling, the poet has
+worked out his fatally illuminated,
+disenchanted, disappointed, heroic
 soul. Let shallow Laertes storm for
 his vengeance, but in the profound
-depthsof Hamlet's nature there is
+depths of Hamlet's nature there is
 no more room for delusion. As
-Macbeth murdered sleep,so has
-villanymurdered truth,the soul of
-the world ;
-but that last and awful
+Macbeth murdered sleep, so has
+villany murdered truth,the soul of
+the world; but that last and awful
 murder is not to be made up for
 by the death of the villain. That
-is trivial,a nothing,a momentary
+is trivial, a nothing, a momentary
 anodyne, a little salve put to the
-burningof the heart-deepwound :
-but no remedy; for remedy is be- yond
-possibility, beyond even hope.
-This in our opinionis the interpre- tation
+burning of the heart-deep wound:
+but no remedy; for remedy is beyond
+possibility, beyond even hope.<br>
+This in our opinion is the interpretation
 of Hamlet, so far as his great
-and noble manhood is capableof a
-set interpretation.All throughthe
+and noble manhood is capable of a
+set interpretation. All through the
 darkness that has closed round him
-there strike flickeringsof a former
-light,which show the real nature,
+there strike flickerings of a former
+light, which show the real nature,
 instinct with grace and sweetness
 of his character. When he is first
-presentedto us, his "
-inkycloak "
-is
-not more new to him than is the
-gloom^thatenvelopshis life. This
+presented to us, his "inky cloak"
+is not more new to him than is the
+gloom that envelops his life. This
 gloom dates back but these two
-little months " not two : nay, per- haps
+little months — not two: nay, perhaps
 not more than half that
-period:since the secret horrors that
+period: since the secret horrors that
 lie beneath the surface of common
-livingfirstburst upon him " not in
-his father's death,a natural sorrow,
+living first burst upon him — not in
+his father's death, a natural sorrow,
 but in the monstrous inconstancy
-and wantonness of his mother. Be- fore
-that unparalleledrevelation of
+and wantonness of his mother. Before
+that unparalleled revelation of
 evil came, what had Prince Hamlet
-been?
-" The glassof fashion and the mould of
-form :
-The expectancy and rose of the fair
-state :
-""
+been?<br>
+ "The glass of fashion and the mould of form: <br>
+The expectancy and rose of the fair state:"—<br>
 the very hope and flower of noble
 youth in Denmark. It is easy to
-collect the traces of that lightand
-sweet existence after itis past. The
+collect the traces of that light and
+sweet existence after it is past. The
 warmth of his faith in the one last
-prop that remains to him, his faith-ul
-Horatio,is at the firstmoment
-scarcelylessreadyand genialthan his
+prop that remains to him, his faithful
+Horatio, is at the first moment
+scarcely less ready and genial than his
 salutation of the other friends who
-are not true :
-" Good lads,how do ye
-both ?
-" he cries,with happy frank- ness,
-to Rosencrantz and Guildenstern,before
-he has seen the treach- ery
-in their faces ;
+are not true: "Good lads,how do ye
+both ?" he cries, with happy frankness,
+to Rosencrantz and Guildenstern, before
+he has seen the treachery
+in their faces;
 and when he has
-begunto suspectthat treachery,with
-what pathosof recollection does he
+begun to suspect that treachery, with
+what pathos of recollection does he
 remind them of the time in which
-there was no suspicion,adjuring
-them "by the rightsof our fellow- ship,
+there was no suspicion, adjuring
+them "by the rights of our fellowship,
 by the consonancy of our
-youth, by the obligationof our
-ever-preservedlove "
-! This is no
-melancholy philosopherabove the
-range of the young cavaliers,the sol- diers
+youth, by the obligation of our
+ever-preserved love!" This is no
+melancholy philosopher above the
+range of the young cavaliers, the soldiers
 and scholars of Wittenberg;
 but a true comrade " one whose
 superiorrank made him onlymore
