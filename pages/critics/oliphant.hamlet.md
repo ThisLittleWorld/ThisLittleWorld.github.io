@@ -911,6 +911,7 @@ to evidence of madness on his part.
 so affrighted!" she cries,rushing
 with a child's simple impulse to
 her father. <br>
+<br>
 "Lord Hamlet, " with his doublet all unbrac'd; <br>
 No hat upon his head ; his stockings foul'd, <br>
 Ungarter'd,and down-gyved to his ankle; <br>
@@ -1003,644 +1004,633 @@ This transparent assumption of
 folly blows off the moment he sees
 the new-comers, whom he meets at
 first with the frankest pleasure.
-" Sure I am, there are not two men
-livingto whom he more adheres,"
-the queen has said ;
-and the recep- tion
-which Hamlet givesthem fully
+"Sure I am, there are not two men
+living to whom he more adheres,"
+the queen has said;
+and the reception
+which Hamlet gives them fully
 carries out his mother's description.
-Eut either there is something in
+But either there is something in
 their air which prompts suspicion,
 or the new-born doubts in his mind
-make him questionclosely," What
-make you at Elsinore 1
-"
+make him question closely," What
+make you at Elsinore?"
 Alas ! the
 generous and truthful Hamlet has
-now got that lightof bitter illumi- nation
+now got that light of bitter illumination
 in his eyes which sees through
-all disguises.In a little keen
-quick play of persistentquestion
-and unwillingreply,he has got the
+all disguises. In a little keen
+quick play of persistent question
+and unwilling reply, he has got the
 secret of their mission. He accepts
-that too : his friends have fallen
+that too: his friends have fallen
 away from him, and turned into
-spiesand* emissaries of his foe. The
+spies and emissaries of his foe. The
 rest of the interview with these
 false friends is wrought with the
-most marvellous skill : the sup- pressed
-passionin it mingledwith
-that levityof the sick heart which
-is more sad than despair.At first
+most marvellous skill: the suppressed
+passion in it mingled with
+that levity of the sick heart which
+is more sad than despair. At first
 he seems to make almost an appeal
-to their sympathies,when he tells
-them how he has " lost all my
-mirth,foregoneall custom of exer- cises
-;
-"
+to their sympathies, when he tells
+them how he has "lost all my
+mirth,foregone all custom of exercises;"
 but seeing this does not
-move one spark of the old fellowfeelingwithin
-them,Hamlet accepts
-the position,this time with a smile
-of bitter yet tranquilunderstand- ing.
+move one spark of the old fellow feeling within
+them, Hamlet accepts
+the position, this time with a smile
+of bitter yet tranquil understanding.
 That which would have been
-so greatan evil,so miserable a dis- aster
-before " what is it now but a
+so great an evil, so miserable a disaster
+before — what is it now but a
 faint echo of the downfall already
-accomplished1 Fate having already
-done her worst,this bitterness the
-more but chimes in like an antici- pated
+accomplished? Fate having already
+done her worst, this bitterness the
+more but chimes in like an anticipated
 refrain. Yet the pain of it
-tells even in the greateranguish,
+tells even in the greater anguish,
 and rises to a climax of indignant
-remonstrance when, after the hypo- critical
-appealhis false friends make
-to his old affection,Hamlet, scorn- ing
-to givethem more distinct reply,
-takes the " recorder " from the hands
-of the playerand offers it first to
-one, then to the other. " Will you
-playupon this pipe1
-" he says ;
-" 'tis
+remonstrance when, after the hypocritical
+appeal his false friends make
+to his old affection, Hamlet, scorning
+to give them more distinct reply,
+takes the "recorder" from the hands
+of the player and offers it first to
+one, then to the other. "Will you
+play upon this pipe?" he says; — 'tis
 as easy as lying: govern these
 ventages with your ringers and
 thumb, give it breath with your
 mouth, and it will discourse most
-eloquent music." " Why, look
-you, now," he adds, "how un- worthy
-a thing you make of me !
-You would play upon me ; you
+eloquent music." "Why, look
+you, now," he adds, "how un worthy
+a thing you make of me!
+You would play upon me; you
 would seem to know my stops;
 you would pluck out the heart of
-my mystery. . . . 'Sblood,do
+my mystery... 'Sblood,do
 you think I am easier to be played
-on than a pipe?" Mr Irvingin
-a fury" quite out of character,we
-think,with the concentrated scorn
-and pain,the pang yet smile of the
+on than a pipe?" Mr Irving in
+a fury — quite out of character, we
+think, with the concentrated scorn
+and pain, the pang yet smile of the
 outburst which is far too sad for
-passion" breaks violently'across his
+passion — breaks violently across his
 knee the "little organ," which
 appears to those shallow deceivers
-so much more difficult to under- stand
+so much more difficult to understand
 than Hamlet's great heart
-and nature. But passionor vio- lence
+and nature. But passion or violence
 is not in the contrast between
-the simplepipeand the man's soul.
+the simple pip eand the man's soul.
 It leaves them confounded, poor
-creatures as they are " yet stillnot
-altogethersure, so great is the for- bearance
-of his protest,notwith- standing
+creatures as they are — yet still not
+altogether sure, so great is the forbearance
+of his protest, notwithstanding
 the reluctant contempt in
-it" that they may not yet deceive
+it — that they may not yet deceive
 him again, and get the better of
 him, and worm their way into his
 secret. In no part of the play is
-his attitude more noble " highas the
+his attitude more noble — high as the
 heavens above the falsehood which
-is wringing his very heart,yet
-deeply,profoundlyconscious of it
-than in those scenes. His firstdis- enchantment
+is wringing his very heart, yet
+deeply, profoundly conscious of it
+than in those scenes. His first disenchantment
 has been so complete,
 and has cut the ground so entirely
-from under his feet,that this is no
+from under his feet, that this is no
 new revelation to him. He bears
-it even, standingthere alone,on so
+it even, standing there alone, on so
 much solid ground as his feet can
-cover, no more, with a smile " but
-the smile is one of utter and in- expressible
-pain.
+cover, no more, with a smile — but
+the smile is one of utter and inexpressible
+pain. <br>
 There remains but one thing in
 which Hamlet might still find a
 shred of truth and faithfulness.
-Accordingto our opinionOphelia
-has always been too slightand
+According to our opinion Ophelia
+has always been too slight and
 small a creature to have much hold
-upon such a spirit" and his per-tual
-gibesand flouts at Polonius,
-speciallyon the subject of his
-daughter,would be cruel,had he
+upon such a spirit — and his perpetual
+gibesa nd flouts at Polonius,
+specially on the subject of his
+daughter, would be cruel, had he
 not an idea that some plot or
 other in respect to his daughter
 was brewing in the old courtier's
-mind ;
-but when the deepestmus- ings
+mind;
+but when the deepest musings
 of his sadness are disturbed by
 the entrance of that last and cruellest
 spy upon him, Hamlet does not
-seem at firstto contemplatethe pos- sibility
-that Opheliatoo might be in
-the plotagainsthim. Her evidently
-concerted appearance at that mo-ent,
+seem at first to contemplatethe possibility
+that Ophelia too might be in
+the plot against him. Her evidently
+concerted appearance at that moment,
 a calculated chance to secure
-the prince'sattention,rouses him
+the prince's attention, rouses him
 from thoughts so different that
-he perceivesher with a passing
+he perceives her with a passing
 impatience. And it is hard to
-believe that even Opheliais con- scious
+believe that even Ophelia is conscious
 of the full meaning of the
 snare which she is made to set.
-Something of simplicity,something
-of stupidity,is in the device " which
-is probablyall her own, and unsuggestedby
-the other conspirators"
-of bringing Hamlet's love -tokens
-to restore to him at such a mo-ent
+Something of simplicity, something
+of stupidity, is in the device — which
+is probably all her own, and unsuggested by
+the other conspirators —
+of bringing Hamlet's love-tokens
+to restore to him at such a moment
 and under such circumstances.
 Though she thinks he is mad of
-love for herself,and though she
+love for herself, and though she
 knows that her father and the king
-are lying in watch to listen,she
-tempts her crazed lover,as she
-imagines,to betrayhis most secret
-feeling?,by those soft reproaches,
-which at another placeand time
-would have been so affecting " ap- peals
+are lying in watch to listen, she
+tempts her crazed lover, as she
+imagines,to betray his most secret
+feeling, by those soft reproaches,
+which at another place and time
+would have been so affecting — appeals
 to his tenderest recollections,
-and patheticprotest against his
+and pathetic protest against his
 abandonment of her. A woman
-forsaken could not do more iu a
-supreme effortto reclaim the heart
-that has strayedfrom her. Her
-falteringreference to the " words of
+forsaken could not do more in a
+supreme effort to reclaim the heart
+that has strayed from her. Her
+faltering reference to the "words of
 so sweet breath composed as made
-the thingsmore rich,"the faint and
-plaintiveindignationof her conclu- sion,
-"Rich giftswax poor, when
-giversprove unkind,"would be ex- quisitely
-touchingdid we not know
-of those spiesbehind the arras.
-They are exquisitelytouching,we
-believe,to the great part of the
-public,who, soft-hearted to the soft
-Ophelia,forgetthat this whole
-meetingis a plot,and that she has
-contrived,in her simplicity,a still
+the thing smore rich," the faint and
+plaintive indignation of her conclusion,
+"Rich gifts wax poor, when
+givers prove unkind," would be exquisitely
+touching did we not know
+of those spies behind the arras.
+They are exquisitely touching, we
+believe, to the great part of the
+public, who, soft-hearted to the soft
+Ophelia,forget that this whole
+meetingis a plot, and that she has
+contrived, in her simplicity, a still
 more delicate refinement of the
-snare, by thus throwingupon him
+snare, by thus throwing upon him
 the sudden shadow of the past.
 For a moment Hamlet seems to
 pause.
 " I humbly thank you,
-well,well,well,"he says, in answer
-to her question,with somethingin
-his tone of fear,lest this softness
-should melt him, and his stepsbe
+well, well, well," he says, in answer
+to her question, with something in
+his tone of fear, lest this softness
+should melt him, and his steps be
 tempted into a way less rude and
 terrible than that which lies before
-him. But when the meaningof the
+him. But when the meaning of the
 whole situation suddenly flashes
-upon him " when his rapidglance
+upon him — when his rapid glance
 detects the listeners at one side,
-while the seeming-simplemaiden
-falters forth her reproacheson
-the other " a blaze of sudden
-scorn and wrath suddenly illumi- nates
+while the seeming-simple maiden
+falters forth her reproaches on
+the other — a blaze of sudden
+scorn and wrath suddenly illuminates
 the scene. A stab delivered
 by so soft a hand cuts to the heart.
 She too, suborned by his enemies,
-made into a trap for him, endea- vouring
-to seduce him to a selfbetrayalmore
-intimate,more sacred,
+made into a trap for him, endeavouring
+to seduce him to a self betrayal more
+intimate, more sacred,
 than any that his false friends
-could hope to attain ! The pang is
+could hope to attain! The pang is
 so keen that Hamlet is cruel and
 terrible to the soft and shrinking
 creature. He rails at her as if she
 were a wanton, and crushes her
-under his contempt. " Go thy
-ways to a nunnery " to a nunnery
-" go !;" he cries,with,for the first
-time,a shrill tone of anger in his
+under his contempt. "Go thy
+ways to a nunnery — to a nunnery
+— go!" he cries, with, for the first
+time, a shrill tone of anger in his
 voice. She to whose orisons he
 commends himself one moment, is
 denounced the next in terms as
 harsh and disdainful as were ever
-used to the most abandoned sin- ner.
+used to the most abandoned sinner.
 His words beat her down
 like a hailstorm on a flower. He
-has no pity" no mercy. That com- bination
-of the last appealto his
+has no pity — no mercy. That combination
+of the last appeal to his
 tenderness with the concealed and
 cruel plot against him betrays
 Hamlet to an outburst which under
-less provocationwould be unmanly.
+less provocation would be unmanly.
 He insults the woman who has
 made a snare for him out of her
-own very tenderness. The ex- quisite
+own very tenderness. The exquisite
 art which keeps up our
 sympathy for the bewildered and
-crushed Ophelia,notwithstanding
+crushed Ophelia, notwithstanding
 what would be the baseness of her
-disloyaltywere she sufficiently ele- vated
+disloyalty were she sufficiently elevated
 in character to understand
-the treacherous partshe is playing,
+the treacherous part she is playing,
 is wonderful. It leaves a haze of
-mortal uncertaintyabout her char- acter
-altogether,such as veils the
+mortal uncertainty about her character
+altogether, such as veils the
 actual being of our contemporaries,
-and leaves us at libertyto think
+and leaves us at liberty to think
 better or worse of them according
-to the pointof view from which
-we see- them," a licence which has
-secured for Opheliaa placeamong
-Shakespeare'sheroines which does
-not seem to be justifiedby any- thing
-but the prettinessand pathos
+to the point of view from which
+we see them, — a licence which has
+secured for Ophelia a place among
+Shakespeare's heroines which does
+not seem to be justified by anything
+but the prettiness and pathos
 of her mad scenes. Her submissive
-obedience to every impulsefrom her
-father scarcelybalances her absolute
-want of perceptionof any truth
-or delicacywhich she owes to
-Hamlet, for whose betrayalshe al- lows
-herself,without apparent re- sistance,
-to be made the decoy.
+obedience to every impulse from her
+father scarcely balances her absolute
+want of perception of any truth
+or delicacy which she owes to
+Hamlet, for whose betrayal she allows
+herself,without apparent resistance,
+to be made the decoy. <br>
 Thus the last blow that Fortune
-can now strike at him has fallen"
-his friends have abandoned him ;
-his simplelove,the innocent crea- ture
-in whom, if no loftypassion
-was possible,there still seemed
-every commendation to sweet do- mestic
-trust and truth,has done her
-best to betrayhim. What remains
+can now strike at him has fallen —
+his friends have abandoned him;
+his simple love,the innocent creature
+in whom, if no lofty passion
+was possible, there still seemed
+every commendation to sweet domestic
+trust and truth, has done her
+best to betray him. What remains
 for this man to whom all the world
-has turned traitor,under whose feet
+has turned traitor, under whose feet
 the solid soil has crumbled, who
 sees nothing but yawning ruin
 round him, abysses of darkness,
-bottomless pitsof falsehood,wher- ev
-he may turn ?
-This,it seems to us, is the deep- est
+bottomless pits of falsehood, wherever
+he may turn? <br>
+This, it seems to us, is the deepest
 and chief strain in the tragedy.
 The murder and the vengeance he
-would take for it,would his sick
-heart leave him enough possibil- ity
-of livingto give the necessary
-standing-groundfor the blow " form
+would take for it, would his sick
+heart leave him enough possibility
+of living to give the necessary
+standing-ground for the blow — form
 the sole source of energy and life
 which he retains. That cruel and
 monstrous wrong, for which he can
 yet get some amends, rouses him
-from the deadlycollapseof every
+from the deadly collapse of every
 hope and wish which he cannot
-escape, which nothingin heaven or
-earth can remedy. The passionof
+escape, which nothing in heaven or
+earth can remedy. The passion of
 the great scene with the ghost
-bringsbefore us another Hamlet,
-a heroic figure,altogetherawakened
-out of the sick and miserable mus- ing,
-the impotentstillanger and pain
-of his previousappearance.
-" Re- mmber
-theeT' he cries;"
-ay, thou
-poor ghost,while memory holds a
+brings before us another Hamlet,
+a heroic figure, altogether awakened
+out of the sick and miserable musing,
+the impotent still anger and pain
+of his previous appearance.
+"Remember
+thee?" he cries;
+"ay, thou
+poor ghost, while memory holds a
 seat in this distracted globe."
-And the wild humour of his ex- citement
-as he makes his com- panions
-.swear to secrecy, is not
+And the wild humour of his excitement
+as he makes his companions swear to secrecy, is not
 more unlike the bitter satire of
-hopelessdespondency with which
-in a previousscene he explainshis
+hopeless despondency with which
+in a previous scene he explains his
 mother's marriageas
-" thrift,thrift,
-pure thrift" " than is the roused
+"thrift, thrift,
+pure thrift" — than is the roused
 and passionatefervour of his action
-from the apathy of spectatorshipin
+from the apathy of spectatorship in
 which we have seen him plunged
 from the first. Again, the gleam
 of revival which occurs when the
-playerVpresent themselves, and
-he "perceivesa readymeans in his
-hand of convictingthe criminal,
-confirmingthe apparition,and strik- ing
+players present themselves, and
+he perceives a ready means in his
+hand of convicting the criminal,
+confirming the apparition, and striking
 a first and subtle blow, once
-more restores force and lifeto Ham- let.
+more restores force and life to Hamlet.
 There is no vacillation in his
 measures then. How prompt, how
-ready,how practicalare all his com- binations
-! Once more he is de- livered
+ready, how practical are all his combinations!
+Once more he is delivered
 from the deadly influence
-of that eatingfalsehood,and truth
-becomes possible.
-" I have heard
-That guiltycreatures sittingat a play,
-Have by the very cunning of the scene
-Been struck so to the soul,that presently
-They have proclaim'dtheir malefactions.
-For murder, though it have no tongue,
-will speak
-With most miraculous organ."
+of that eating falsehood, and truth
+becomes possible. <br>
+<br>
+"I have heard <br>
+That guiltycreatures sitting at a play, <br>
+Have by the very cunning of the scene <br>
+Been struck so to the soul, that presently <br>
+They have proclaim'd their malefactions. <br>
+For murder, though it have no tongue, will speak <br>
+With most miraculous organ." <br>
+<br>
 After the terrible success of this
-experiment,we are not left time to
-see any further falteringof purpose.
+experiment, we are not left time to
+see any further faltering of purpose.
 The events follow in breathless
 succession. The great scene with
-his mother and the killingof Polonius
-take placethe same evening
-" and that very nightor the morn- ing
-immediatelysucceeding,without
-pause or delay,he is swept away
-to England on the expeditionfrom
+his mother and the killing of Polonius
+take place the same evening
+— and that very night or the morning
+immediately succeeding, without
+pause or delay, he is swept away
+to England on the expedition from
 which the king hopes he may never
 return. The " vacillation " with
-which Hamlet is continuallycre- dited,
+which Hamlet is continually credited,
 and of which so much has
-been said,is all confined to the un- told
-periodbetween the appearance
-of the ghostand the pointat which
-the storyresumes, with the treach- eries
-of Rosencrantz and Guildenstern,and
+been said, is all confined to the untold
+period between the appearance
+of the ghost and the point at which
+the story resumes, with the treacheries
+of Rosencrantz and Guildenstern, and
 of Ophelia. After he has
-made sure by the trialto which he
-subjectshis uncle at the play,of the
-guiltof the king,Hamlet, save at
-the moment when he surprisesthe
+made sure by the trial to which he
+subjects his uncle at the play, of the
+guilt of the king, Hamlet, save at
+the moment when he surprises the
 criminal on his knees,and decides
 not to kill him, has no further
-opportunityfor vacillation. And
-here the sustained action of the tra- gedy
+opportunity for vacillation. And
+here the sustained action of the tragedy
 may be said to end. The last
-act is a bewilderingpostscript,in
-which all the mysteriesof the pre- vious
+act is a bewildering postscript, in
+which all the mysteries of the previous
 close and elaborate pieceof
-tragedyare swept up. It mightbe
-almost a new play,so different is it
-" or the beginningof a continua- tion
+tragedy are swept up. It might be
+almost a new play, so different is it
+— or the beginningof a continuation
 which shows us all the former
 occurrences thrown into distance
-and perspective.Of the original
-actors none remain except Kamlet
+and perspective. Of the original
+actors none remain except Hamlet
 himself,the king and queen, and
 the two lay figuresof Horatio and
-Laertes. Opheliais gone, all her
-simplicitiesand artless treachery
-ended in a prettyfoolish madness
-as much unlike the " lunacyof the
-Lord Hamlet "
-as can be conceived ;
-and old Polonius,wagginghis wise
+Laertes. Ophelia is gone, all her
+simplicities and artless treachery
+ended in a pretty foolish madness
+as much unlike the "lunacy of the
+Lord Hamlet"
+as can be conceived;
+and old Polonius, wagging his wise
 old head in shallow sagacity;
 and
-the young court friends,who cannot
-understand their princelycompan- ion,
-but can betray him " all are
+the young court friends, who cannot
+understand their princely companion,
+but can betray him — all are
 swept away. And with them has
-gone Hamlet's despair,and his plan
-of vengeance, and allthose obstinate
-questioningswith which he has en- deavoured
+gone Hamlet's despair, and his plan
+of vengeance, and all those obstinate
+questionings with which he has endeavoured
 to blow aside the veil of
-human uncertainty.We tread new
-ground,and enter a new contracted,
-less impassionedworld.
-All this time,though we have
+human uncertainty. We tread new
+ground, and enter a new contracted,
+less impassioned world. <br>
+All this time, though we have
 discussed Hamlet much, we have
 given but little attention to Mr
-Irving,thoughit is his performance
+Irving, though it is his performance
 which has furnished the text of the
-disquisition.Notwithstandingthe
-very serious and conscientious per- fomance
+disquisition. Notwithstanding the
+very serious and conscientious perfomance
 he gives us, it is very
-difficult to judge what is the con-eption
-he has formed of the char- acter
+difficult to judge what is the conception
+he has formed of the character
 of Hamlet. He would seem
 rather to have studied the drama
-scene by scene, endeavouringwith
-all his powers to givewhat seems to
-him an adequaterepresentation of
-each,than to have addressed himself
+scene by scene, endeavouring with
+all his powers to give what seems to
+him an adequate representation of
+each, than to have addressed himself
 to the character as a whole. And
-though there are generalcriticisms
-of the superficialkind to be ad- dressed
+though there are general criticisms
+of the superficial kind to be addressed
 to him, such as the very
-natural and reasonable objectionto
-the languagehe speaks,which cer- tainly
-is quiteas imperfectEnglish
-as that which any foreignermay
-have made use of" we are prevent
-ed by our inabilityto discriminate
-what his idea is,from findingany
+natural and reasonable objection to
+the language he speaks,which certainly
+is quit eas imperfect English
+as that which any foreigner may
+have made use of — we are prevented
+ed by our inability to discriminate
+what his idea is, from finding any
 fault with that idea. He wants
-humour so entirely,that the wild
-patheticgleamsof diversion which
-lightup the gloom are lost to his
-audience ;
+humour so entirely, that the wild
+pathetic gleamsof diversion which
+light up the gloom are lost to his
+audience;
 and the laugh which
-breaks in at the most bitter mo-ents
-" that laughwhich is fullof
-tears,yet is nevertheless instinct
+breaks in at the most bitter moments
+— that laugh which is full of
+tears, yet is nevertheless instinct
 with a wildlyhumorous perception
-of thingsludicrous and incongru- ous
-" loses all its distinctive char- acter,
-and becomes a mere hyster- ical
+of thingsludicrous and incongruous
+— loses all its distinctive character,
+and becomes a mere hysterical
 symbol of excessive emotion,
-no more expressivethan a shriek.
+no more expressive than a shriek.
 And he wants the flexibility, the
 ready change from one mood to
-another,the rapidityof transition
-which bewilders Hamlet's common- place
+another, the rapidity of transition
+which bewilders Hamlet's commonplace
 companions. The broken
-jest,so strangelynatural,yetto the
-vulgareye so unsuited to the occa- sion,
-with which he hails the inter- ruptions
-of the ghost" his fantastic
-foolingof Polonius " even the light- er
-touches between deadlyjestand
+jest, so strangely natural,yet to the
+vulgar eye so unsuited to the occasion,
+with which he hails the interruptions
+of the ghost — his fantastic
+fooling of Polonius — even the lighter
+touches between deadly jest and
 earnest with which his interview
 with Rosencrantz and Guildenstern
-is full" are all beyond Mr Irving's
+is full — are all beyond Mr Irving's
 power. And the wild outburst of
-tragicgaietyinto which he breaks
+tragic gaiety into which he breaks
 when the assemblyis broken up
-after the play,becomes mere mad
-bellowingand screamingin Mr
-Irving'shands,without any sugges- tion
-of that waveringof the mind
-at the very summit of tragicsatis- fction,
-consternation,and horror,
-frantic with meaning,yet a world
-apart from madness,which is per- haps
+after the play, becomes mere mad
+bellowing and screaming in Mr
+Irving'shands, without any suggestion
+of that wavering of the mind
+at the very summit of tragic satisfction,
+consternation, and horror,
+frantic with meaning, yet a world
+apart from madness, which is perhaps
 the furthest step humanity
 can take into what is expressible
 and capable of being put into
-words : it is a step beyond the
+words: it is a step beyond the
 actor's powers. To embody the
-vicissitudes,the extremes, the
+vicissitudes, the extremes, the
 heights and depths of this most
-wonderful of poeticalcreations,who
+wonderful of poetical creations,who
 could be sufficient who did not to
-some degreeshare Hamlet's nature,
-his iargeeyesight,his c
-sion of small and great,his suscep- tibility
+some degree share Hamlet's nature,
+his large eyesight, his comprehension of small and great, his susceptibility
 to every breath that flits
 across the mental horizon? This
-last qualityapparentlyMr Irving
-does not perceiveat all ;
+last qualityapparently Mr Irving
+does not perceive at all;
 for we are
-sure that if he perceivedit he
+sure that if he perceived it he
 would devote himself to a study of
-all the ripplingsof sensitive faces,
+all the ripplings of sensitive faces,
 all the transitions of changeable
 minds. His own countenance is at
-times finelyexpressive,but it has
+times finely expressive, but it has
 not been made for the flickerings
 of a mind at once spontaneous and
-complex. Its force is single,uni,
+complex. Its force is single, uni,
 not mingled but of one colour.
 Hamlet is too great to be called
-versatile,a word reserved by us
-for the use of characters of slighter
-mould ;
+versatile, a word reserved by us
+for the use of characters of slighter mould;
 but there is all the gamut
-in him, and no difficultyin going
+in him, and no difficulty in going
 at once from the height to the
 depth of the moral scale. But Mr
 Irving possesses no such varied
-power of expression;
-and this must
+power of expression; and this must
 always be fatallyin his way when
 it is necessary to attempt those
-shades of meaning which are in- finite,
+shades of meaning which are infinite,
 and which vary with every
 breath.
 As an instance,however,of what
-seems to us completemisconception
+seems to us complete misconception
 more serious than simple failure,
 we may instance the scene with
-Ophelia,which no doubt is one of
+Ophelia, which no doubt is one of
 the most difficult in the play. It
-is hard in any case (notwith- standing
-that the doctrine is pop- ular)
-to give a persistenttone of
-superiorityto a man's intercourse
+is hard in any case (notwithstanding
+that the doctrine is popular)
+to give a persistent tone of
+superiority to a man's intercourse
 with a woman without offending
-the finer perceptionsas well as the
-wholesome prejudicesof the audi- ence,
-which naturallyrange them- selves
-on the woman's side;and it is
-stillmore difficultto show the turn
-of sentiment,and justifyHamlet's
-wild and sudden onslaughtupon so
-soft and shrinkinga nature. Mr
+the finer perceptions as well as the
+wholesome prejudices of the audience,
+which naturally range themselves
+on the woman's side; and it is
+still more difficult to show the turn
+of sentiment, and justify Hamlet's
+wild and sudden onslaught upon so
+soft and shrinking a nature. Mr
 Irving avoids this by turning the
-scene into one of the most impas- sioned
-and frantic love " love of
-gesture and attitude,since he can
-not change the words,which are as
-unlike love-makingas ever were put
-on paper. His Hamlet can scarce- ly
+scene into one of the most impassioned
+and frantic love — love of
+gesture and attitude, since he can
+not change the words, which are as
+unlike love-making as ever were put
+on paper. His Hamlet can scarcely
 restrain himself from clasping
-Ophelia to his heart,his arms are
+Ophelia to his heart, his arms are
 all but closed around her, and
 when he turns himself away it is
 but to turn back, drawn by an
 attraction which it takes not only
 all his power of resolution but all
 his muscular force to resist. Those
-embracings of the air,those futile
-snatchingsand withdrawals,are sup- posed
-to be proofsof a violent and
-passionatelove,restrained or broken
-either by madness or by misery"
-Mr Irvingdoes not clearlygive us
-to understand which " but certainly
-belongingat least to a most robust
-sentiment,for even the sightof the
-half - concealed spectators,about
-whose presence it is impossiblehe
-can deceive himself,makes no dif- ference
+embracings of the air, those futile
+snatchings and withdrawals,are supposed
+to be proofs of a violent and
+passionate love, restrained or broken
+either by madness or by misery —
+Mr Irving does not clearly give us
+to understand which — but certainly
+belonging at least to a most robust
+sentiment, for even the sight of the
+half-concealed spectators, about
+whose presence it is impossible he
+can deceive himself, makes no difference
 to him; and he goes on
 with those wild half-embraces and
-the strangestpantomimic struggle
-of passionafter he knows of the
-plot and treachery,making an ex- hibition
-of his feelingsunder the
+the strangest pantomimic struggle
+of passion after he knows of the
+plot and treachery, making an exhibition
+of his feelings under the
 very noses of the watchers. From
-whence Mr Irvingcan have taken
-this extraordinaryconceptionit is
-impossibleto tell. It is contra- dicted
+whence Mr Irving can have taken
+this extraordinary conception is
+impossibleto tell. It is contradicted
 not only by every word
 Hamlet says, but by the verdict of
-the spiesafter. " Love ! his affec- tions
-do not that way tend,"says
-the king, more clear-sightedthan
+the spies after. "Love! his affections
+do not that way tend," says
+the king, more clear-sighted than
 Mr Irving; though, indeed, had
 Mr Irving been Hamlet (as,thank
-heaven ! he is not),Polonius must
+heaven! he is not), Polonius must
 have remained master of the field,
-since nothingcould justifyhis mad
+since nothing could justify his mad
 behaviour but the old courtier's
 theory. There are many jarring
-notes in the performance,but none
-so entirelyfalse as this.
-On the equallydelicate ground
+notes in the performance, but none
+so entirely false as this. <br>
+On the equally delicate ground
 where Hamlet is confronted by the
-other treacheryin the persons of
-Guildenstern and Eosencrantz,Mr
-Irvingismuch more happy. Though
-he is incapableof the lightbanter
-which conceals so much tragicfeel- ing,
+other treachery in the persons of
+Guildenstern and Rosencrantz, Mr
+Irving i smuch more happy. Though
+he is incapableof the light banter
+which conceals so much tragic feeling,
 his intercourse with them is well
-done throughout,thoughsomewhat
-extreme in gravity. The search- ing
+done throughout, though somewhat
+extreme in gravity. The searching
 look,which is the firstevidence
-of his doubts,follows very quickly
+of his doubts, follows very quickly
 upon his cordial recognitionof his
-fellow-students ;
-and the manner in
-which he penetratesthroughtheir
-shiftingand paltrydefences is fine
-in its realityand concentrated ob- servation
-" a study as successful as
-the encounter with Opheliais false.
-In the one case he has caughtthe
-true tone of the character,in the
-other goes wilfullyagainstit,and
+fellow-students;
+and the manner in which he penetrates through their
+shifting and paltry defences is fine
+in its reality and concentrated observation
+— a study as successful as
+the encounter with Ophelia is false.
+In the one case he has caught the
+true tone of the character, in the
+other goes wilfully against it, and
 againstevery indication of the text.
-The fine scene with the recorder,to
-which we have alreadyreferred,is
+The fine scene with the recorder, to
+which we have already referred, is
 somewhat spoiledby the violence
-with which he breaks,when he has
-served his purpose, the pipewhich
-has proved so powerfulan illustra- tion
-of his meaning ;
-but this isa de- tail
-which may easilybe pardoned,
+with which he breaks, when he has
+served his purpose, the pipe which
+has proved so powerful an illustration
+of his meaning;
+but this is a detail
+which may easily be pardoned,
 all the rest being so satisfactory.
 By the way, the introduction of the
-recorder,not only in Mr Irving's
+recorder, not only in Mr Irving's
 arrangement, but in every other we
-have seen, is singularlyartificial.
-Hamlet has demanded "
-some music
-" the recorders,"in his wild exul- tation
+have seen, is singularly artificial.
+Hamlet has demanded "some music — the recorders," in his wild exultation
 at the end of the play-scene,
-meaning evidentlya performance
-of music to soothe or inspirehis
-excited fancy,or to take the place
+meaning evidently a performance
+of music to soothe or inspire his
+excited fancy, or to take the place
 of the entertainment so summarily
-interrupted.The recorder,how- ever,
+interrupted. The recorder,however,
 is brought to him as if he
 had asked for it simply to give
-the courtiers their lesson,the idea
+the courtiers their lesson, the idea
 of music to be performed before
-him failingaltogether.Mr Irving's
+him failing altogether. Mr Irving's
 careful zeal for all these matters
-mightwell be exerted on this point
-to make the introduction of the in- strument
-more natural.
+might well be exerted on this point
+to make the introduction of the instrument
+more natural. <br>
 That he does not think any detail
-trivialis apparent from his notes in
-a contemporary,the last of which is
+trivial is apparent from his notes in
+a contemporary, the last of which is
 occupiedwith a defence of his own
-practicein withdrawingthe two
-portraitsof traditionaryuse, which
+practice in withdrawing the two
+portraitsof traditionary use, which
 have hitherto figuredin the queen's
-chamber,and afforded a visible text
-for Hamlet's speech"
-" Look here,
+chamber, and afforded a visible text
+for Hamlet's speech —
+"Look here,
 upon this picture,and on this." Mr
 Irving'scrotchet on this point is
 reallyunimportant; though it is
