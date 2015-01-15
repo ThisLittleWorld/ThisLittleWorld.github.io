@@ -1759,7 +1759,8 @@ over. Here is the version of Shakespeare: — <br>
 for's estate. His name's Gonzago: the 
 story is extant, and writ in choice Italian. 
 You shall see anon how the murderer gets 
-the love of Gonzago's wife. 
+the love of Gonzago's wife.<br>
+<br>
 *Oph. The king rises. <br>
 Ham. What! frighted with false fire? <br>
 Queen. How fares my lord? <br>
@@ -1769,75 +1770,76 @@ All Lights,lights,lights!" <br>
 <br>
 Mr Irving leaves out all that we
 have put in italics, thus gaining
-nothing in point of time,and entirely
-missingthe confused consciousness
+nothing in point of time, and entirely
+missing the confused consciousness
 of the spectators, which
 helps the effect of the scene so
-greatly. As it is now beingrepre- sntd,
-the king'sexclamation,and
-the echoingcry of the courtiers for
-lights,are all that is interposed
-between the sudden flightof the
-court and Hamlet's explanationof
+greatly. As it is now being represented,
+the king's exclamation, and
+the echoing cry of the courtiers for
+lights, are all that is interposed
+between the sudden flight of the
+court and Hamlet's explanation of
 the argument of the play. His
-own outcry," What ! frightedwith
-false fire1
-"
-is transposed,and comes
-after the precipitatewithdrawal of
-the royalparty. Thus the effect of
-three independentwitnesses to th
-king'sconviction and remorse, each
-breakingin spontaneously,with a
-risingexcitement which makes the
-rush of the departureinfinitely more
-tellingand lifelike,is entirelylost.
-And no counterbalancingadvantage
-is gainedby the omission of these
-few but pregnant phrases,which do
-not delaybut only elucidate the
+own outcry, "What! frighted with
+false fire1?"
+is transposed, and comes
+after the precipitate withdrawal of
+the royal party. Thus the effect of
+three independent witnesses to the
+king's conviction and remorse, each
+breaking in spontaneously, with a
+rising excitement which makes the
+rush of the departure infinitely more
+telling and lifelike, is entirely lost.
+And no counterbalancing advantage
+is gained by the omission of these
+few but pregnant phrases, which do
+not delay but only elucidate the
 action. We cannot understand,
-either,why of Hamlet's wild dog- gerel
+either, why of Hamlet's wild doggerel
 the verse which is universally
-known and full of meaning,should
-be omitted,while the second mad
-rhyme is retained :
+known and full of meaning, should
+be omitted, while the second mad
+rhyme is retained: <br>
+<br>
 " Why, let the stricken deer go weep,
-The hart ungalledplay,"
-is as fit an expressionof the wild
-feelingof the moment as could be
-found " whereas the jinglethat is
-retained is a mere maddening clat- ter
-of words,expressiveenough of
-the frantic levityof passionwhen
-taken in conjunctionwith the other,
-but far less worthyof preservation
+The hart ungalled play," <br>
+<br>
+is as fit an expression of the wild
+feeling of the moment as could be
+found — whereas the jingle that is
+retained is a mere maddening clatter
+of words, expressive enough of
+the frantic levity of passion when
+taken in conjunction with the other,
+but far less worthy of preservation
 than the other. We fail also to
-perceiveany reason for leavingout
+perceive any reason for leaving out
 one of the best-known lines in the
 Ghost's address to Hamlet, "Unhousel'd,disappointed,unanel'd."
-Perhapsthere is no singleline in
+Perhaps there is no single line in
 the whole play the omission of
 which would so strike the most
 careless listener. It is like leaving
 out a bar in a strain of music, and
 withdraws our mind from the rest
-of the speechinto involuntaryin- vestigation
+of the speech into involuntary investigation
 of the mystery of this
-incomprehensible" cut." Why, ex- cept
-to make us stumble and dis- tract
-our attention,should this have
-been left out 1
+incomprehensible "cut." Why, except
+to make us stumble and distract
+our attention, should this have
+been left out?
 The omission of the scene in the
-oratory,the king'sprayer and Ham- let's
-fierce and momentary self-dis- cusion
-thereanent,is perhapsless
-to be complainedof. We sincerely
-sympathisewith Mr Irving in the
-grievousdisappointmentshe must
+oratory,the king's prayer and Hamlet's
+fierce and momentary self-discussion
+thereanent, is perhaps less
+to be complained of. We sincerely
+sympathise with Mr Irving in the
+grievous disappointments he must
 encounter in the persons of his
-kings.The Shakespearianmonarch
-is a beingby himself;and how to
+kings. The Shakespearian monarch
+is a being by himself; and how to
 get him to look " not like a king,
 but " like anythingbetter than a
 hobby-horse,must be a labour of
