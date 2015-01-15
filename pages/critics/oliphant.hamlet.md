@@ -1493,12 +1493,12 @@ at once from the height to the
 depth of the moral scale. But Mr
 Irving possesses no such varied
 power of expression; and this must
-always be fatallyin his way when
+always be fatally in his way when
 it is necessary to attempt those
 shades of meaning which are infinite,
 and which vary with every
 breath.
-As an instance,however,of what
+As an instance, however, of what
 seems to us complete misconception
 more serious than simple failure,
 we may instance the scene with
@@ -1639,143 +1639,139 @@ the spectato, to have so distinct an
 allusion without any visible ground
 for it;
 and the suggestion he makes,
-that the stage has four walls,and
+that the stage has four walls, and
 that the portraits may be supposed
 to be hanging upon that which "is
-only theoretical "
-" which,in reality,
-is the theatre,with all its crowding
-faces" is somewhat ludicrous. The
-absence of the portraits,or of the
+only theoretical" — which, in reality,
+is the theatre, with all its crowding
+faces — is somewhat ludicrous. The
+absence of the portraits, or of the
 miniatures which sometimes do duty
 for them, weakens the force of the
-speech,in so far as any failure of
+speech, in so far as any failure of
 external accessories can weaken it,
 which is a trivial quantity. But
 this accessory to which the text
-seems to point is,on the whole,
-more importantthan the chambercandle
-which Hamlet, with real at- tention,
-lightsand hands to his
-mother at the conclusion of the in- terview,
-neglecting,however,as we
-cannot but feel,to remind her of
-the night-gear,evidentlyairingat
-the fire,which givestruth and local
-colour to the room ; though,after
-all,it is not the queen'sbedroom,
+seems to point is, on the whole,
+more important than the chamber candle
+which Hamlet, with real attention,
+lights and hands to his
+mother at the conclusion of the interview,
+neglecting, however, as we
+cannot but feel, to remind her of
+the night-gear, evidently airing at
+the fire, which gives truth and local
+colour to the room; though, after
+all, it is not the queen's bedroom,
 but only some boudoir appartenant,
 or there would be no need for
-the chamber - candle at all. The
+the chamber-candle at all. The
 scene which takes place in this
-room is strangelylopped and cut ;
+room is strangely lopped and cut;
 something it may be necessary to
-omit in deference to modern modes- ties,
+omit in deference to modern modesties,
 but these are somewhat too
-much regardedin a scene of passion
-so intense. And the sudden vehe- mnce
-of Hamlet's action,when the
+much regarded in a scene of passion
+so intense. And the sudden vehemence
+of Hamlet's action, when the
 voice behind the arras rouses him
-into wild rapidityof impulse,leav- ing
-no time for thought,loses all
-its force in Mr Irving'streatment.
-He liftsthe arras before he strik
-making any doubt about the per- son
-of the victim impossible,and
+into wild rapidityof impulse, leaving
+no time for thought, loses all
+its force in Mr Irving's treatment.
+He lifts the arras before he strikes,
+making any doubt about the person
+of the victim impossible, and
 taking the meaning out of his own
-question,"Is it the king?" It
-" must be remembered that he has
-come there stillbreathless with the
+question, "Is it the king?" It must be remembered that he has
+come there still breathless with the
 wild emotion of the play-scene;
-that he has passed,on his way,
-through the oratorywhere the king
-is praying,and has spared him ;
+that he has passed, on his way,
+through the oratory where the king
+is praying, and has spared him ;
 and that the transport of sudden
 passion with which he rushes at
-the concealed spectator is a pay- ment
-of long arrears to the arch- enemy,
-who had alreadyused this
-same mean device to surprisehis
+the concealed spectator is a payment
+of long arrears to the arch-enemy,
+who had already used this
+same mean device to surprise his
 thoughts. We cannot tell why Mr
 Irving should have cut out two
 lines of the words addressed to the
-dead Polonius,which are far from
-unnecessary :"
-" Thou wretched,rash,intrudingfool,
-farewell !
-I took thee for thy better;take thyfor- tune
-;
-Thou find'stto be too busyissome danger""
-is what Shakespearewrote ;
-but
-Mr Irvingomits the italics,leaving
+dead Polonius, which are far from
+unnecessary: <br>
+<br>
+"Thou wretched, rash, intruding fool, farewell! <br>
+I took thee for thy better; *take thy fortune; <br>
+Thou find'st to be too busy is some danger*" <br>
+<br>
+is what Shakespeare wrote; but
+Mr Irving omits the italics, leaving
 the victim without even so much
-disdainful regretas this.
-Altogetherludicrous,too, is the
-appearance of the ghostin this very
-importantscene. The convolutions
-of the queen'snight-drapery, which,
-so far as she isconcerned,occupy the
-most prominent placein the scene,
-billowinghither and thither as she
-is affected by Hamlet's vitupera- tions,
-had, we confess,so occupied
+disdainful regret as this.
+Altogether ludicrous, too, is the
+appearance of the ghost in this very
+important scene. The convolutions
+of the queen's night-drapery, which,
+so far as she is concerned, occupy the
+most prominent place in the scene,
+billowing hither and thither as she
+is affected by Hamlet's vituperations,
+had, we confess, so occupied
 our mind, that when, with a rush,
 a venerable gentleman in familiar
 domestic costume came on the
-stage, shakingit with substantial
-footsteps,the idea of the ghostdid
-not presentitself at all to our dull
+stage, shaking it with substantial
+footsteps, the idea of the ghost did
+not present itself at all to our dull
 imagination;
 and it was impossible
 to avoid the natural idea that the
-lady'shusband, hearing an unac- countable
+lady's husband, hearing an unaccountable
 commotion in the next
 room, had jumped out of bed,
-seized his dressing- gown, and
+seized his dressing-gown, and
 rushed in to see what was the
 matter. The combination of this
-and the chamber - candle which
-Hamlet lightsso carefully,and the
-night-gown airing at the fire,is
-most unfortunate. These acces- sories
+and the chamber-candle which
+Hamlet lights so carefully, and the
+night-gown airing at the fire, is
+most unfortunate. These accessories
 are a great deal more prosaic
 than the introduction of pictures
-would be ;
+would be;
 and we cannot but
 wonder that the actor who leaves
 so much to imagination at one
 moment, should leave so little to
 it at another.
-There are many omissions,too,
-which seem distinct faults in the re- presentation,
-diminishingits effect
-" as, for instance,at the end of
-the play-scene,where the alarmed
-phrasesexchangedby the spectators
+There are many omissions, too,
+which seem distinct faults in the representation,
+diminishing its effect
+— as, for instance, at the end of
+the play-scene, where the alarmed
+phrases exchanged by the spectators
 occupy the moment necessary to
-show us the king'sperturbation,
+show us the king's perturbation,
 before the whole train suddenly
 rushes away, and everything is
-over. Here is the version of Shake- speare
-:"
-" Ham. He poisonshim i' the garden
-for's estate. His name's Gonzago : the
-storyis extant, and writ in choice Italian.
-You shall see anon how the murderer gets
-the love of Gonzago'swife.
-Oph. The king rises.
-Ham. What! frightedwith falsefire?
-Queen.How faresmy lord?
-Pol. Give o'er the play.
-King. Give me some light:" away !
-AIL Lights,lights,lights!
-"
+over. Here is the version of Shakespeare: — <br>
+"Ham. He poisons him i' the garden 
+for's estate. His name's Gonzago: the 
+story is extant, and writ in choice Italian. 
+You shall see anon how the murderer gets 
+the love of Gonzago's wife. 
+*Oph. The king rises. <br>
+Ham. What! frighted with false fire? <br>
+Queen. How fares my lord? <br>
+Pol. Give o'er the play.* <br>
+King. Give me some light: — away! <br>
+All Lights,lights,lights!" <br>
+<br>
 Mr Irving leaves out all that we
-have put in italics,thus gaining
-nothingin point of time,and en- tirely
-missingthe confused con- sciousness
-of the spectators,which
+have put in italics, thus gaining
+nothing in point of time,and entirely
+missingthe confused consciousness
+of the spectators, which
 helps the effect of the scene so
 greatly. As it is now beingrepre- sntd,
 the king'sexclamation,and
