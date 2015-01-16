@@ -1803,7 +1803,7 @@ known and full of meaning, should
 be omitted, while the second mad
 rhyme is retained: <br>
 <br>
-" Why, let the stricken deer go weep,
+"Why, let the stricken deer go weep, <br>
 The hart ungalled play," <br>
 <br>
 is as fit an expression of the wild
@@ -1817,7 +1817,7 @@ but far less worthy of preservation
 than the other. We fail also to
 perceive any reason for leaving out
 one of the best-known lines in the
-Ghost's address to Hamlet, "Unhousel'd,disappointed,unanel'd."
+Ghost's address to Hamlet, "Unhousel'd, disappointed, unanel'd."
 Perhaps there is no single line in
 the whole play the omission of
 which would so strike the most
