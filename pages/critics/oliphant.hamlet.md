@@ -1420,15 +1420,15 @@ ed by our inability to discriminate
 what his idea is, from finding any
 fault with that idea. He wants
 humour so entirely, that the wild
-pathetic gleamsof diversion which
+pathetic gleams of diversion which
 light up the gloom are lost to his
 audience;
 and the laugh which
 breaks in at the most bitter moments
 — that laugh which is full of
 tears, yet is nevertheless instinct
-with a wildlyhumorous perception
-of thingsludicrous and incongruous
+with a wildly humorous perception
+of things ludicrous and incongruous
 — loses all its distinctive character,
 and becomes a mere hysterical
 symbol of excessive emotion,
@@ -1840,164 +1840,161 @@ grievous disappointments he must
 encounter in the persons of his
 kings. The Shakespearian monarch
 is a being by himself; and how to
-get him to look " not like a king,
-but " like anythingbetter than a
-hobby-horse,must be a labour of
+get him to look — not like a king,
+but — like anything better than a
+hobby-horse, must be a labour of
 Hercules such as only managers
-fullyappreciate.It is much better
+fully appreciate. It is much better
 to leave the scene out altogether
 than to associate only ludicrous
-ideas with it. A gentlemanwhose
+ideas with it. A gentleman whose
 chief thought when he kneels is
-about the knees of his " tights."
-and who goes on serenelysaying
+about the knees of his "tights,"
+and who goes on serenely saying
 his prayers while the avenger rants
 and waves a torch within a foot of
 him, is better left out when he can
 be left out. Indeed their majesties
 of Denmark at the Lyceum must
-be almost as greatan exercise to Mr
-Irving'ssoul as were their originals
-to Hamlet. The swingof their re- spective
-mantles,especiallythat fine
-wave of white silk liningfrom the
-monarch's shoulder,isthe chief point
+be almost as great an exercise to Mr
+Irving's soul as were their originals
+to Hamlet. The swing of their respective
+mantles, especially that fine
+wave of white silk lining from the
+monarch's shoulder, is the chief point
 that strikes us. As for the queen,
 the manner in which her majesty
 swathes herself in her red and yellow
-night-gownduringthe excitingscene
-in her chamber,making its billows
-and puffingsdo dutyfor the emo- tin
+night-gown during the excitingscene
+in her chamber,`making its billows
+and puffings do dutyfor the emotion
 she shows but little trace of
-otherwise,is probablydue to some
-archaeologicalinstructions previous- ly
+otherwise, is probably due to some
+archaeological instructions previously
 administered by Hamlet, rather
-than to any inspirationof her own.
-We cannot,however,pass over the
-personnelof the drama without say- ing
+than to any inspiration of her own.
+We cannot, however, pass over the
+personnel of the drama without saying
 somethingof Miss Ellen Terry's
-Ophelia. No Opheliaof our time
-has givento the character so grace- ful
+Ophelia. No Ophelia of our time
+has givento the character so graceful
 a presence. The very excellence
-of the actress,however,makes more
+of the actress, however, makes more
 apparent the insignificanceof the
 part allotted to her. Nothing can
-make the submissive littledaughter
-of Polonius a greatpoeticalheroine.
-All the prejudicesof the audience
-are in her favour,and we have
+make the submissive little daughter
+of Polonius a great poetical heroine.
+All the prejudices of the audience
+are in her favour, and we have
 grown up with the idea that she
-ranks among the Juliets and Rosa- linds
-; and, unfortunately,it has
+ranks among the Juliets and Rosalinds; and, unfortunately, it has
 been very easy on most occasions
 to assure ourselves that our disap-
-pointment arose solelyfrom the in- capacity
+pointment arose solelyfrom the incapacity
 of the actresses to whom
-(anecessityfor a singingvoice be- ing
+(a necessity for a singing voice being
 in itself a limitation to the
-number of Ophelias possible)the
+number of Ophelias possible) the
 part was intrusted. But now that
-we have a representativeto whom
+we have a representative to whom
 no exception can be made, this
 delusion fails us. Even Miss Terry
-cannot givemore than the mildest
+cannot give more than the mildest
 interest to the character. What
-she can do she does ; though even
+she can do she does; though even
 the sweet and animated archness
-of her countenance, though capa- ble
-of touching pathos,would be
-more adaptedfor a Rosalind full of
-life and action,than for the plain- tive
-weakness of Ophelia.
-The lastact of " Hamlet " remains
-to ourselves a mystery. We can- not
+of her countenance, though capable
+of touching pathos, would be
+more adapted for a Rosalind full of
+life and action, than for the plaintive
+weakness of Ophelia. <br>
+The last act of "Hamlet" remains
+to ourselves a mystery. We cannot
 attempt to discuss what we so
-littleunderstand. Had not Shake- speare
-been writing playsfor an
+little understand. Had not Shakespeare
+been writing plays for an
 audience to which an orthodox
-ending was necessary " had not
+ending was necessary — had not
 even the supreme creator laboured
-under that necessityfor a third
+under that necessity for a third
 volume with which critics upbraid
-the smaller artists of fiction" it is
+the smaller artists of fiction — it is
 likelyenough that he would have
-left this tale unfinished,as it is at
+left this tale unfinished, as it is at
 the end of the fourth act. There
-is no end practicablefor such a
+is no end practicable for such a
 hero. Death indeed cuts the thread
-artificiallyboth in real life and
-poetry ; but it is an artificialend- ig,
+artificially both in real life and
+poetry; but it is an artificial ending,
 however it comes about, and,
 so far as we are concerned, solves
-110 problem,though we make bold
-to believe that it explainsevery- thing
-to the person chieflycon-erned.
+no problem, though we make bold
+to believe that it explains everything
+to the person chiefly concerned.
 In the fifth act all is
 changed. That former world has
 rolled away with all its passions
-and pains. Hamlet, having de- livered
+and pains. Hamlet, having delivered
 himself by the promptest
-energeticaction, in an emergency
-which is straightforwardand with- ou
-complications,comes back with a
-languorand exhaustion about him
-which contrasts strangelywith the
-intensityof all his previouseino
-tions. Contemplativeas ever, there
-is no longerany strain of mystic
-anguish in his musings. Unac- countably,
-yet most evidently,the
-greatness of his sufferinghas dis- solved
+energetic action, in an emergency
+which is straightforward and without
+complications, comes back with a
+languor and exhaustion about him
+which contrasts strangely with the
+intensity of all his previous eino
+tions. Contemplative as ever, there
+is no longer any strain of mystic
+anguish in his musings. Unaccountably,
+yet most evidently, the
+greatness of his suffering has dissolved
 away. He walks into the
 scene like a man recovered from an
-illness" like one who has been
+illness — like one who has been
 dreaming and is awake, a sadder
 and a wiser man than he was only
-yesternight. His speculationsin
-the churchyardare all in a lower
+yesternight. His speculations in
+the churchyard are all in a lower
 key. Instead of those sublime
-questioningsof earth and heaven
+questionings of earth and heaven
 which formed the burden of all his
-thoughts" instead of the passion
-of disenchantment and cruel con- sciousness
-of treacheryand false- hood
-" the flightof his subdued
-fancygoes no higherthan the base
+thoughts — instead of the passion
+of disenchantment and cruel consciousness
+of treachery and falsehood
+— the flightof his subdued
+fancy goes no higher than the base
 uses to which the dust of humanity
 may return. True, he starts into
 spasmodic excitement when roused
-by the rantingof Laertes over his
+by the ranting of Laertes over his
 sister's grave, and meets him with
-an outburst of responsiveranting,
+an outburst of responsive ranting,
 in which there is a gleam of his old
 wild humour, though subdued like
-himself to a lower tone. " The
+himself to a lower tone. "The
 braveryof his griefdid put me into
-a towering passion,"he exclaims
-afterwards to Horatio ;
+a towering passion," he exclaims
+afterwards to Horatio;
 and his
 sudden irritation and outdoing of
 the swagger of his natural opponent
 is the thing most like the Hamlet
-of old in the whole postscriptalepi- sode.
+of old in the whole postscriptal episode.
 So also in a mild degree is
 the scene with the young euphuist
-Osric,where prince and courtier
-give us a dialoguein the manner
+Osric, where prince and courtier
+give us a dialogue in the manner
 of Lyly, accordingto the fashion
 of Elizabeth's time rather than
-Hamlet's,wonderfullyreduced and
+Hamlet's, wonderfully reduced and
 tamed from the wild and brilliant
-play of the princewith Polonius in
-the previousacts. Throughout the
-growing rapidityof action with
-which all thingstend towards the
-catastrophe,Hamlet bears himself
-with noble and unsuspiciousdig- nty
-;
-while the last murderous net- work
-of deceit,which is compass-
-ing his death, closes round him.
+play of the prince with Polonius in
+the previous acts. Throughout the
+growing rapidity of action with
+which all things tend towards the
+catastrophe, Hamlet bears himself
+with noble and unsuspicious dignity,
+while the last murderous network
+of deceit, which is compassing his death, closes round him.
 The hand of fate is upon him, his
 insight is clouded with a great
 weariness, his deep soul subdued.
@@ -2010,7 +2007,7 @@ purpose he, of all men
 in the world, is backed
 up
 and set
-forth as his champion by his nat- ural
+forth as his champion by his natural
 enemy.
 He walks this time
 calmly, with melancholy grace,
@@ -2022,21 +2019,21 @@ tracked him from the beginning of
 the great and melancholy story.
 It has broken his heart, it has
 untwisted for him all the ties of
-nature, it has made love and friend- ship
+nature, it has made love and friendship
 into delusions, and life itself
 a troubled dream. What is the
 secret of the subdued dead hush
 and calm with which he comes
 before us in the end? Is it mere
-weariness, exhaustion of all possi- bility
+weariness, exhaustion of all possibility
 of action, the sense that
-nothing more remains worth strug- glin
-for " for even his
+nothing more remains worth struggling
+for — for even his
 revenge,
 the one object which had kept
-the channels of life clear, has dis- appeared
-in the last chapter ? Who
-can tell 1 only at the
+the channels of life clear, has disappeared
+in the last chapter? Who
+can tell? Only at the
 very
 end does
 a gleam of the old passion flash
@@ -2049,7 +2046,7 @@ enemy
 before him into the land
 of retribution. So far as our theory
 goes,
-the last act is in fact th
+the last act is in fact the
 return of the poet to his real theme.
 His hero has been wrecked through- out
 by treachery. The higher be- trayals
