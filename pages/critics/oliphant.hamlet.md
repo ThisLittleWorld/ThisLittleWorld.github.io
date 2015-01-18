@@ -23,7 +23,7 @@ difficult of all the creations of
 poetry, the one also in which absolute
 failure is less common than in
 any other. No one, perhaps, of all
-its many representativeshas given
+its many representatives has given
 us a complete impersonation of the
 strange and wonderful being whom
 we never completely understand,
@@ -2048,24 +2048,24 @@ of retribution. So far as our theory
 goes,
 the last act is in fact the
 return of the poet to his real theme.
-His hero has been wrecked through- out
-by treachery. The higher be- trayals
+His hero has been wrecked throughout
+by treachery. The higher betrayals
 that affected his heart and
-soul wrun" Hamlet's being, and
-transformed the world to him : but
+soul wrung Hamlet's being, and
+transformed the world to him: but
 the meaner tricks that assailed his
 life were 1oo low for his suspicion.
-How was he, so noble, so unfor- tunate,
+How was he, so noble, so unfortunate,
 measuring his soul against
 the horrible forces of falsehood, the
 spiritual wickedness in high places,
-to come down from that impas- sioned
+to come down from that impassioned
 and despairing contest, to
 think of poison, or take
-precau- tions
+precautions
 against it? Thus the traitor
 got the better of him, and death
-triumphed at the last.
+triumphed at the last. <br>
 There is nothing to object to in
 Mr Irving's performance of this last
 portion of the play. It suits him
@@ -2074,7 +2074,7 @@ gone
 before.
 The anachronism which we believe
 experts find in the exhibition of
-a modern scientific manner of fenc- ing,
+a modern scientific manner of fencing,
 which could not have existed
 in the
 vague traditionary days of
@@ -2089,5 +2089,5 @@ the ludicrous head-dress which is
 half like Mephistopheles and half
 like a gipsy woman, we should
 feel that Mr Irving's churchyard
-scene was as satisfactory a render- ing
+scene was as satisfactory a rendering
 as we are likely to attain.
