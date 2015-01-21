@@ -30,6 +30,7 @@ permalink: "/critics/"
 ###Hamlet:
 
 * [Hamlet (essay)](/coleridge.hamlet.essay/) — S.T. Coleridge
+* [Hamlet](/hazlitt.hamlet/) — William Hazlitt
 * [Hamlet](oliphant.hamlet) — Margaret Oliphant
 * [Hamlet and His Problems](/eliot.hamlet/) — T.S. Eliot
 
