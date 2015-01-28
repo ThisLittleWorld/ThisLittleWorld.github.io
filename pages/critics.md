@@ -31,9 +31,9 @@ permalink: "/critics/"
 
 * [Hamlet (essay)](/coleridge.hamlet.essay/) — S.T. Coleridge
 * [Hamlet](/hazlitt.hamlet/) — William Hazlitt
-* [Hamlet](oliphant.hamlet) — Margaret Oliphant
+* [Hamlet](/oliphant.hamlet/) — Margaret Oliphant
 * [Hamlet and His Problems](/eliot.hamlet/) — T.S. Eliot
-* [Hamlet and the Psycho-Analyst](chesterton.hamlet) — G.K. Chesterton
+* [Hamlet and the Psycho-Analyst](/chesterton.hamlet/) — G.K. Chesterton
 
 
 
