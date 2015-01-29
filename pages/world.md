@@ -35,7 +35,7 @@ There are, I know, those who prefer not to go beyond the impression, however acc
 
 ####Shakespeare's World -- Primary Sources
 
-a href="http://www.amazon.com/gp/product/0817315586/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0817315586&linkCode=as2&tag=thilitwor-20&linkId=DM55EXTLTYLZVNIO"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0817315586&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thilitwor-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=thilitwor-20&l=as2&o=1&a=0817315586" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> The English Physician — Shakespeare was obsessed with the medical theories of his day. This book was written not long after his time, and it is an indispensable resource for understanding Shakespeare's conception of characters and a lot of otherwise obscure passages. 
+<a href="http://www.amazon.com/gp/product/0817315586/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0817315586&linkCode=as2&tag=thilitwor-20&linkId=DXUSJSKJ7PIYCASB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0817315586&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thilitwor-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=thilitwor-20&l=as2&o=1&a=0817315586" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  The English Physician — Shakespeare was obsessed with the medical theories of his day. This book was written not long after his time, and it is an indispensable resource for understanding Shakespeare's conception of characters and a lot of otherwise obscure passages. 
 
 
 
