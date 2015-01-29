@@ -26,7 +26,7 @@ There are, I know, those who prefer not to go beyond the impression, however acc
 
 
 
-####Shakespeare's Bookshelf
+####From Shakespeare's Bookshelf
 
 
 <a href="http://www.amazon.com/gp/product/0679729526/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679729526&linkCode=as2&tag=thilitwor-20&linkId=YHUW76B4NQXBBE6W"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0679729526&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thilitwor-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=thilitwor-20&l=as2&o=1&a=0679729526" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> The *Aeneid*
