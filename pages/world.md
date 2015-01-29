@@ -42,3 +42,6 @@ There are, I know, those who prefer not to go beyond the impression, however acc
 
 <a href="http://www.amazon.com/gp/product/B009CH2HM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009CH2HM6&linkCode=as2&tag=thilitwor-20&linkId=RVGNGKY7XMNBI4TM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009CH2HM6&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thilitwor-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=thilitwor-20&l=as2&o=1&a=B009CH2HM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> *Gesta Romanorum*
 
+
+<a href="http://www.amazon.com/gp/product/0199537372/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0199537372&linkCode=as2&tag=thilitwor-20&linkId=VWF5WC7UYPANBXME"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0199537372&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thilitwor-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=thilitwor-20&l=as2&o=1&a=0199537372" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> The *Metamorphoses*
+
