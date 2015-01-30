@@ -293,12 +293,16 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 55rem;
-  padding-left:  1rem;
+/*  padding-left:  1rem;
   padding-right: 1rem;
-  margin-left:  auto;
+*/  margin-left:  auto;
   margin-right: auto;
-  @include box-shadow(30px 30px 10px rgba(1,0,0,.1));
+  background: white;
 
+
+  box-shadow: 0px 0px 4px rgba(0,0,0,0.7); 
+  -webkit-box-shadow: 0 0 4px rgba(0,0,0,0.7); 
+  -moz-box-shadow: 0 0px 4px rgba(0,0,0,0.7);color:#fff;
 }
 
 
@@ -310,21 +314,27 @@ tbody tr:nth-child(odd) th {
 
 .masthead {
   text-align: center;
-  padding-top:    1rem;
+  padding-top:    3rem;
+  /*padding-left: 3rem;*/
+  margin-left: 0rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
+  background-color: black;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  font-size: 25px;
+
 }
 .masthead-title a {
-  color: #505050;
+  /*color: #505050;*/
+  color: white;
 }
 .masthead-title small {
   font-size: 95%;
-  font-weight: 400;
+  font-weight: 500;
   color: #c0c0c0;
   letter-spacing: 0;
 }
@@ -447,8 +457,15 @@ article {
   /*@include border-radius(10px);*/
   /*padding: 5px;*/
   margin: 0 10px;
-  box-shadow: inset 0 0 5px #888888;
-  /*box-shadow: inset 1px 0 5px rgba(184, 184, 184, 0.4);*/
+  /*box-shadow: inset 0 0 5px #888888;*/
+/*  box-shadow: 0px 0px 4px rgba(0,0,0,0.7); 
+  -webkit-box-shadow: 0 0 4px rgba(0,0,0,0.7); 
+  -moz-box-shadow: 0 0px 4px rgba(0,0,0,0.7);color:#fff;*/
+
+  /*.pdf-options {width: 404px;padding: 20px 0px;display:none;background: #1b1c21;
+    border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;box-shadow: 0px 0px 4px rgba(0,0,0,0.7); -webkit-box-shadow: 0 0 4px rgba(0,0,0,0.7); 
+    -moz-box-shadow: 0 0px 4px rgba(0,0,0,0.7);color:#fff;}
+  *//*box-shadow: inset 1px 0 5px rgba(184, 184, 184, 0.4);*/
   font-size: 16px;
 
   background:white;
