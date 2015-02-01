@@ -9,11 +9,11 @@ permalink: "/critics/"
 ######Poetry:
 
 * [To the Memory of My Beloved the Author, Mr. William Shakespeare](/jonson.elegy/) — Ben Jonson
-* [On Shakespeare](/milton.poem/) — John Milton
+* [Shakespeare Epitaph](/milton.poem/) — John Milton
 
 
 ######Prose:
-
+* [De Shakespeare Nostrat (Of Our Shakespeare)](/jonson.shakespeare/) -- Ben Jonson
 * [Preface to Edition of Shakespeare](/pope.preface/) — Alexander Pope
 * [Preface to Edition of Shakespeare](/johnson.preface/) — Samuel Johnson
 
