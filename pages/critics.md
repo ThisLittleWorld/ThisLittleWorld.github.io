@@ -11,6 +11,7 @@ permalink: "/critics/"
 * [To the Memory of My Beloved the Author, Mr. William Shakespeare](/jonson.elegy/) — Ben Jonson
 * [Shakespeare Epitaph](/milton.poem/) — John Milton
 * [L'Allegro](/milton.lallegro/) -- John Milton
+* [Shakespeare](/arnold.shakespeare/) -- Matthew Arnold
 
 ######Prose:
 * [De Shakespeare Nostrat (Of Our Shakespeare)](/jonson.shakespeare/) -- Ben Jonson
