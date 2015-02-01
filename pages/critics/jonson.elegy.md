@@ -21,7 +21,7 @@ And think to ruin, where it seem'd to raise. <br>
 These are, as some infamous bawd or whore <br>
 Should praise a matron; what could hurt her more? <br>
 But thou art proof against them, and indeed, <br>
-Above th' ill fortune of them, or the need.
+Above th' ill fortune of them, or the need. <br>
 I therefore will begin. Soul of the age! <br>
 The applause, delight, the wonder of our stage! <br>
 My Shakespeare, rise! I will not lodge thee by <br>
