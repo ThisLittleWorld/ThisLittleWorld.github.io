@@ -11,10 +11,10 @@ permalink: "/critics/"
 * [To the Memory of My Beloved the Author, Mr. William Shakespeare](/jonson.elegy/) — Ben Jonson
 * [Shakespeare Epitaph](/milton.poem/) — John Milton
 * [L'Allegro](/milton.lallegro/) -- John Milton
-* [Shakespeare](/arnold.shakespeare/) -- Matthew Arnold
+* [Shakespeare](/arnold.shakespeare/) — Matthew Arnold
 
 ######Prose:
-* [De Shakespeare Nostrat (Of Our Shakespeare)](/jonson.shakespeare/) -- Ben Jonson
+* [De Shakespeare Nostrat (Of Our Shakespeare)](/jonson.shakespeare/) — Ben Jonson
 * [Preface to Edition of Shakespeare](/pope.preface/) — Alexander Pope
 * [Preface to Edition of Shakespeare](/johnson.preface/) — Samuel Johnson
 
@@ -33,6 +33,7 @@ permalink: "/critics/"
 * [Hamlet](/coleridge.hamlet.essay/) — S.T. Coleridge
 * [Hamlet](/hazlitt.hamlet/) — William Hazlitt
 * [Hamlet](/oliphant.hamlet/) — Margaret Oliphant
+* [Review of Hamlet at the Lyceum](/shaw.hamlet/) — G.B. Shaw
 * [Hamlet and His Problems](/eliot.hamlet/) — T.S. Eliot
 * [Hamlet and the Psycho-Analyst](/chesterton.hamlet/) — G.K. Chesterton
 
