@@ -3,19 +3,4 @@ layout: page
 title: About
 ---
 
-*This royal throne of kings, this sceptred isle, <br>
-This earth of majesty, this seat of Mars, <br>
-This other Eden, demi-paradise, <br>
-This fortress built by Nature for herself <br>
-Against infection and the hand of war, <br>
-This happy breed of men, this little world, <br>
-This precious stone set in the silver sea, <br>
-Which serves it in the office of a wall <br>
-Or as a moat defensive to a house, <br>
-Against the envy of less happier lands, — <br>
-This blessed plot, this earth, this realm, this Website.*
-<br>
-<br>
-<br>
-<br>
-<br>
+This website is meant as a resource for students as well as for people who are just interested in Shakespeare. In the Critics section, we have collected highlights of several centuries worth of original Shakespeare criticism. The World section contains page links and Amazon affiliate links to sources which are helpful for understanding Shakespeare's milieu. The Biography section is a short guide to the authorship controversy. We aslo Blog about random Shakespeare stuff we think is interesting. Enjoy! 
